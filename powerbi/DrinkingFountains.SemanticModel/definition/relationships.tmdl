@@ -1,0 +1,7 @@
+relationship 80a33138-7156-a425-c74b-08a69721bbc0
+	fromColumn: Districts.city
+	toColumn: Cities.city
+
+relationship 8ddf731a-fee8-ccd0-c531-df39368b9291
+	fromColumn: Fountains.city
+	toColumn: Cities.city

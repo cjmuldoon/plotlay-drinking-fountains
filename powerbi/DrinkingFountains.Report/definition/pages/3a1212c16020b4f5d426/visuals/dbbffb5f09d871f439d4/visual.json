@@ -1,0 +1,310 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
+  "name": "dbbffb5f09d871f439d4",
+  "position": {
+    "x": 380,
+    "y": 650,
+    "z": 1,
+    "height": 350,
+    "width": 1500,
+    "tabOrder": 1
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cities"
+                    }
+                  },
+                  "Property": "name"
+                }
+              },
+              "queryRef": "Cities.name",
+              "nativeQueryRef": "name",
+              "displayName": "Name"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cities"
+                    }
+                  },
+                  "Property": "fountains"
+                }
+              },
+              "queryRef": "Cities.fountains",
+              "nativeQueryRef": "fountains",
+              "displayName": "Fountains"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cities"
+                    }
+                  },
+                  "Property": "fountains_per_km2"
+                }
+              },
+              "queryRef": "Cities.fountains_per_km2",
+              "nativeQueryRef": "fountains_per_km2",
+              "displayName": "Fountains per km²"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cities"
+                    }
+                  },
+                  "Property": "street_km"
+                }
+              },
+              "queryRef": "Cities.street_km",
+              "nativeQueryRef": "street_km",
+              "displayName": "Street km"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cities"
+                    }
+                  },
+                  "Property": "streets_5min_pct"
+                }
+              },
+              "queryRef": "Cities.streets_5min_pct",
+              "nativeQueryRef": "streets_5min_pct",
+              "displayName": "Streets within 5 min (%)"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cities"
+                    }
+                  },
+                  "Property": "residents_5min_pct"
+                }
+              },
+              "queryRef": "Cities.residents_5min_pct",
+              "nativeQueryRef": "residents_5min_pct",
+              "displayName": "Residents within 5 min (%)"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Cities"
+                    }
+                  },
+                  "Property": "fountains_source"
+                }
+              },
+              "queryRef": "Cities.fountains_source",
+              "nativeQueryRef": "fountains_source",
+              "displayName": "Fountains from"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Cities"
+                  }
+                },
+                "Property": "streets_5min_pct"
+              }
+            },
+            "direction": "Descending"
+          }
+        ]
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'The seven study areas'"
+                }
+              }
+            },
+            "titleWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "fontFamily": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Segoe UI Semibold'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "objects": {
+      "columnWidth": [
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "295.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Cities.name"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "210.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Cities.fountains"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "210.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Cities.fountains_per_km2"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "162.5D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Cities.street_km"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "162.2D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Cities.streets_5min_pct"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "206.3D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Cities.residents_5min_pct"
+          }
+        },
+        {
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "219.4D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Cities.fountains_source"
+          }
+        }
+      ],
+      "columnHeaders": [
+        {
+          "properties": {
+            "wordWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "values": [
+        {
+          "properties": {
+            "wordWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

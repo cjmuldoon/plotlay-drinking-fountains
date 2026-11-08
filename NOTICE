@@ -1,0 +1,54 @@
+A drink within five minutes: public drinking fountains in seven city centres (Melbourne, Sydney, New York,
+San Francisco, Paris, Barcelona, Rome), measured along the streets.
+Copyright 2026 Craig Muldoon. Made with Plotlay (https://www.getplotlay.com).
+
+This repository contains code, data we made, and data from the sources below.
+
+CODE
+  The notebook and the Power BI project (its Power Query, DAX and report files) are licensed under the MIT licence
+  (LICENSE).
+
+DATA (data/)
+  The tables, fountains, district shapes and street lines in data/ are made from OpenStreetMap, from Eau de Paris
+  and Ville de Paris data, and from the other sources below. OpenStreetMap and the Paris datasets are under the Open
+  Database Licence, so data/ is licensed under the Open Database Licence 1.0 (LICENSE-DATA): if you publicly use a
+  database made from it, offer that database under the ODbL too. Please credit: "Drinking fountains in seven city
+  centres: Plotlay (getplotlay.com), from city open data and OpenStreetMap contributors".
+
+VISUALS (visuals/)
+  The map pictures and charts are Produced Works made from the data; they are licensed under Creative Commons
+  Attribution 4.0 International. Keep this credit with them: "Plotlay (getplotlay.com). Streets: (c) OpenStreetMap
+  contributors, ODbL. Fountains: city open data as listed in NOTICE."
+
+UPSTREAM SOURCES AND CHANGES
+  OpenStreetMap: (c) OpenStreetMap contributors, Open Database Licence 1.0, https://www.openstreetmap.org/copyright.
+    Walkable ways (highway=footway, path, pedestrian, residential, ... from the Overpass API, 8 November 2026), the
+    drinking water points (amenity=drinking_water and drinking_water=yes) and Rome's rioni (boundary=place,
+    place=quarter). Changes: street centrelines measured, cut to the study areas; drinking water points filtered.
+  City of Melbourne Open Data: Drinking fountains; CLUE small areas. Creative Commons Attribution 4.0.
+    Changes: dog bowls left out; areas clipped to the study area.
+  City of Sydney Open Data: Drinking fountains (water bubblers); City villages. Creative Commons Attribution 4.0.
+    Changes: villages clipped to the study area.
+  NYC Open Data, opendata.cityofnewyork.us: NYC Parks Drinking Fountains (Department of Parks and Recreation);
+    2020 Neighborhood Tabulation Areas (Department of City Planning). The New York City Administrative Code says:
+      "Such public data sets shall be made available without any registration requirement, license requirement or
+      restrictions on their use provided that the department may require a third party providing to the public any
+      public data set, or application utilizing such data set, to explicitly identify the source and version of the
+      public data set, and a description of any modifications made to such public data set." (Admin Code 23-502 (d))
+    Versions: as downloaded on 8 November 2026. Changes: indoor fountains, water coolers and sinks left out;
+    areas clipped to the study area.
+  DataSF: Public Bathrooms and Water Fountains (San Francisco Public Utilities Commission); Analysis Neighborhoods
+    (San Francisco Planning). Open Data Commons Public Domain Dedication and License (PDDL 1.0). Changes: only rows
+    with a water fountain or bottle filler; library fountains (indoor), rows out of service and Camp Mather left out.
+  Paris Data (opendata.paris.fr): Fontaines a boire (Eau de Paris); Quartiers administratifs (Ville de Paris).
+    Open Database Licence 1.0. Changes: kept within 400 m of the study area; quartiers clipped to it.
+  Open Data BCN (opendata-ajuntament.barcelona.cat): Fonts de beure 2026; Barris (Ajuntament de Barcelona).
+    Creative Commons Attribution 4.0. Changes: barris converted from WKT and clipped to the study area.
+  GHS-POP R2023A: Schiavina M., Freire S., Carioli A., MacManus K. (2023): GHS-POP R2023A, GHS population grid
+    multitemporal (1975-2030). European Commission, Joint Research Centre (JRC). doi:10.2905/2FF68A52-5B5B-4A22-8F40-C41DA8332CFE.
+    (c) European Union; reuse is authorised provided the source is acknowledged. Epoch 2020, 100 m. Changes: cells cut
+    by district and weighted by the share of their streets within the walk.
+  Roma Capitale's geoportal layer of fontanelle carries no open licence: it was used only to count how many of its
+  fountains in the study area OpenStreetMap also has, and none of it is in this repository.
+
+This is independent work using open data, not endorsed by any of the cities or data publishers.

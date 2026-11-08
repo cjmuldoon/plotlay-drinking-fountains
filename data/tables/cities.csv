@@ -1,0 +1,8 @@
+city,name,centre,study_km2,districts,fountains,fountains_per_km2,street_km,reached_km,streets_5min_pct,streets_2min_pct,all_ways_km,all_ways_5min_pct,residents,residents_reached,residents_5min_pct,fountains_source,osm_points,osm_5min_pct,official_matched_in_osm_pct
+MEL,Melbourne,Melbourne Town Hall,6.786,8,122,18,153.2,149.5,97.6,48.9,375.6,97.1,68586,68231,99.5,official,133,94.5,84
+SYD,Sydney,Sydney Town Hall,6.6,8,84,12.7,131,112.3,85.7,32.5,374.3,84.5,81238,72741,89.5,official,136,95.9,77
+NYC,New York,New York City Hall,5.016,8,95,18.9,93.6,82.4,88.0,34.0,344.6,85.7,127201,117829,92.6,official,98,97.1,60
+SFO,San Francisco,San Francisco City Hall,7.069,12,26,3.7,146.6,73.5,50.1,8.7,367.9,50.7,112665,70350,62.4,official,12,35.9,35
+PAR,Paris,Hôtel de Ville,7.069,28,103,14.6,149.4,141.8,94.9,37.7,484.4,92.0,165985,159028,95.8,official,114,94.3,82
+BCN,Barcelona,Casa de la Ciutat (Plaça de Sant Jaume),6.405,12,180,28.1,146.8,142.1,96.8,73.5,370.1,96.7,157079,155169,98.8,official,180,97.6,93
+ROM,Rome,Campidoglio (Palazzo Senatorio),7.011,20,210,30,147.2,145.2,98.6,71.3,329.9,95.7,56103,55941,99.7,osm,210,98.6,

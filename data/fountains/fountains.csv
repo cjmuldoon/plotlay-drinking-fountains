@@ -1,0 +1,1120 @@
+fountain,city,kind,source,source_id,where,in_study_area,lat,lng
+MEL-F001,MEL,fountain,official,1075232,"Macarthur Square, approximately 31m North of 71 MacArthur Place South, CARLTON V",no,-37.7982551,144.9705661
+MEL-F002,MEL,refill,official,1610522,"Swanston Street between Grattan Street and Faraday Street, approximately 8m SW o",no,-37.7996158,144.9642505
+MEL-F003,MEL,refill,official,1786707,"Murchison Square, approximately 25m North of 49 Owen Street, CARLTON VIC 3053",no,-37.8003733,144.9727894
+MEL-F004,MEL,refill,official,1589925,"Grattan Street between Swanston Street and Bouverie Street, approximately 16m No",no,-37.800492,144.9637439
+MEL-F005,MEL,refill,official,1075319,"Lygon Street between Grattan Street and Faraday Street, approximately 6m East of",no,-37.8005649,144.9668454
+MEL-F006,MEL,refill,official,1757712,"Carlton Gardens North, approximately 72m South of City of Melbourne, The Lodge a",no,-37.8015432,144.9707469
+MEL-F007,MEL,fountain,official,1075281,"Elizabeth Street between Queensberry Street and Pelham Street, approximately 6m ",no,-37.8020137,144.9578323
+MEL-F008,MEL,fountain,official,1360543,"University Square, approximately 8m East of University Square, 86-162 Barry Stre",no,-37.8020146,144.9605723
+MEL-F009,MEL,refill,official,1589366,Carlton Gardens North,yes,-37.8021863,144.9711102
+MEL-F010,MEL,refill,official,1589917,"Lincoln Square, approximately 64m East of Lincoln Square, 138-142 Bouverie Stree",yes,-37.8022153,144.9630132
+MEL-F011,MEL,fountain,official,1115275,"Argyle Square, approximately 39m South of 10 Argyle Place North, CARLTON VIC 305",yes,-37.8022579,144.9661363
+MEL-F012,MEL,refill,official,1757708,Carlton Gardens North,yes,-37.8024173,144.9720229
+MEL-F013,MEL,fountain,official,1115276,"Argyle Square, approximately 63m East of 175 Cardigan Street, CARLTON VIC 3053",yes,-37.8026213,144.965638
+MEL-F014,MEL,fountain,official,1360541,"Argyle Square, approximately 16m NW of Argyle Square, 153-159 Lygon Street, CARL",yes,-37.8028231,144.9663007
+MEL-F015,MEL,refill,official,1922228,"Bedford Street Reserve, approximately 14m SW of 196 Capel Street, NORTH MELBOURN",no,-37.8030357,144.9557017
+MEL-F016,MEL,fountain,official,1817872,"Lincoln Square, approximately 26m North of Bar Holiday, 19-21 Lincoln Square Sou",yes,-37.8030495,144.9628696
+MEL-F017,MEL,refill,official,1075267,"Lygon Street between Argyle Place South and Pelham Street, approximately 21m NE ",yes,-37.8033711,144.966364
+MEL-F018,MEL,refill,official,1591436,"Swanston Street between Queensberry Street and Lincoln Square South, approximate",yes,-37.8044377,144.9634305
+MEL-F019,MEL,refill,official,1589365,"Carlton Gardens South, approximately 53m East of Unit 1, 1 Queensberry Street, C",yes,-37.8053026,144.9695583
+MEL-F020,MEL,fountain,official,1757705,"Carlton Gardens South, approximately 84m North of Carlton Gardens South, Victori",yes,-37.8059612,144.9714311
+MEL-F021,MEL,fountain,official,1075315,"Victoria Street between Cobden Street and Peel Street, approximately 5m NW of Pa",yes,-37.806037,144.95639
+MEL-F022,MEL,fountain,official,1075314,"Intersection of Victoria Street and Cobden Street, approximately 3m North of Hid",yes,-37.8061169,144.9571333
+MEL-F023,MEL,fountain,official,1075310,"Queen Victoria Market, approximately 6m SE of Market Lane Coffee, 83-85 Victoria",yes,-37.8062699,144.9580634
+MEL-F024,MEL,fountain,official,1075290,"Victoria Street between Elizabeth Street and O'Connell Street, approximately 5m ",yes,-37.8063368,144.9590744
+MEL-F025,MEL,fountain,official,1075239,"Elizabeth Street between Therry Street and Victoria Street, approximately 13m We",yes,-37.8066319,144.9599134
+MEL-F026,MEL,refill,official,1115204,"Carlton Gardens South, approximately 34m South of Carlton Gardens South, Victori",yes,-37.8069632,144.9709753
+MEL-F027,MEL,fountain,official,1511454,"Peel Street between Dudley Street and Victoria Street, approximately 10m West of",yes,-37.8071156,144.9559317
+MEL-F028,MEL,refill,official,1115255,"Carlton Gardens South, approximately 69m North of Burton Reserve, 1A Victoria Pa",yes,-37.8071948,144.9726483
+MEL-F029,MEL,refill,official,1511455,"Queen Victoria Market, approximately 11m NE of Queen Victoria Market Trader Hub,",yes,-37.8072604,144.9578811
+MEL-F030,MEL,fountain,official,1511456,"Franklin Street between Victoria Street and Swanston Street, approximately 6m So",yes,-37.8072992,144.9638064
+MEL-F031,MEL,fountain,official,1723259,"Exhibition Street Reserve, approximately 7m West of Exhibition Street Reserve, 3",yes,-37.8075064,144.968505
+MEL-F032,MEL,refill,official,1962557,"Franklin Street between Swanston Street and Elizabeth Street, approximately 10m ",yes,-37.8075298,144.9626698
+MEL-F033,MEL,refill,official,1572009,"Swanston Street between A'Beckett Street and Franklin Street, approximately 15m ",yes,-37.8077428,144.9630865
+MEL-F034,MEL,fountain,official,1075303,"Franklin Street between Swanston Street and Elizabeth Street, approximately 5m S",yes,-37.8078639,144.9610744
+MEL-F035,MEL,fountain,official,1075241,"Victoria Parade between Nicholson Street and Gisborne Street, approximately 9m E",yes,-37.808319,144.9744524
+MEL-F036,MEL,fountain,official,1748619,"Gisborne Street between Albert Street and Victoria Parade, approximately 39m SE ",yes,-37.8087632,144.9756
+MEL-F037,MEL,refill,official,1728233,"Nicholson Street between Albert Street and Victoria Street, approximately 28m We",yes,-37.8089937,144.9728687
+MEL-F038,MEL,refill,official,1589915,"Flagstaff Gardens, approximately 47m NE of City of Melbourne Bowls Club Inc., Fl",yes,-37.8093164,144.9545334
+MEL-F039,MEL,refill,official,1607081,"La Trobe Street between Russell Street and Swanston Street, approximately 29m We",yes,-37.8095936,144.9642404
+MEL-F040,MEL,refill,official,1924157,"State Library of Victoria, approximately 34m West of Shop 304-328 Swanston Stree",yes,-37.809639,144.9642036
+MEL-F041,MEL,refill,official,1115260,"Flagstaff Gardens Tennis Courts, approximately 16m North of Flagstaff Gardens Te",yes,-37.809793,144.955102
+MEL-F042,MEL,fountain,official,1618508,"Parliament Reserve, approximately 37m South of Parliament Reserve, 489-531 Alber",yes,-37.8098063,144.9738345
+MEL-F043,MEL,refill,official,1510288,"La Trobe Street between Elizabeth Street and Queen Street, approximately 3m SE o",yes,-37.8102999,144.9610236
+MEL-F044,MEL,refill,official,1749937,"Fitzroy Gardens, approximately 21m NE of Substation 5, 2-4 Lansdowne Street, EAS",yes,-37.810303,144.9786636
+MEL-F045,MEL,fountain,official,1510292,"Spring Street between Little Bourke Street and Lonsdale Street, approximately 3m",yes,-37.8103391,144.972424
+MEL-F046,MEL,refill,official,1767915,"Flagstaff Gardens, approximately 33m SW of Radison on Flagstaff Gardens Melbourn",yes,-37.8104311,144.955584
+MEL-F047,MEL,fountain,official,1494754,"Swanston Street between Little Lonsdale Street and La Trobe Street, approximatel",yes,-37.8104382,144.964098
+MEL-F048,MEL,refill,official,1494767,"Swanston Street between Little Lonsdale Street and La Trobe Street, approximatel",yes,-37.8104795,144.9643462
+MEL-F049,MEL,refill,official,1749939,"Fitzroy Gardens, approximately 61m SE of Flat 1, Ground 246 Albert Street, EAST ",no,-37.8106933,144.9830719
+MEL-F050,MEL,refill,official,1589924,"La Trobe Street between Queen Street and Wills Street, approximately 32m East of",yes,-37.8110051,144.9586216
+MEL-F051,MEL,refill,official,1575338,"Russell Street between Little Bourke Street and Lonsdale Street, approximately 1",yes,-37.8110509,144.9671424
+MEL-F052,MEL,fountain,official,1115218,"Powlett Reserve, approximately 49m South of 128 Albert Street, EAST MELBOURNE VI",no,-37.8110855,144.9868237
+MEL-F053,MEL,fountain,official,1373788,"Lonsdale Street between Russell Street and Swanston Street, approximately 4m Nor",yes,-37.8111151,144.966628
+MEL-F054,MEL,fountain,official,1530463,"MacArthur Street between Cathedral Place and St Andrews Place, approximately 24m",yes,-37.8111844,144.9751862
+MEL-F055,MEL,refill,official,1589916,"Flagstaff Gardens, approximately 86m SW of Flagstaff Lodge, Flagstaff Gardens, 3",yes,-37.8114413,144.9551163
+MEL-F056,MEL,refill,official,1606143,"Elizabeth Street between Lonsdale Street and Little Lonsdale Street, approximate",yes,-37.8114682,144.9617507
+MEL-F057,MEL,refill,official,1597176,"Bourke Street between Spring Street and Exhibition Street, approximately 26m Sou",yes,-37.8115264,144.9728037
+MEL-F058,MEL,refill,official,1749938,Fitzroy Gardens,yes,-37.8116517,144.9807241
+MEL-F059,MEL,refill,official,1607086,"Swanston Street between Little Bourke Street and Lonsdale Street, approximately ",yes,-37.8118169,144.9647358
+MEL-F060,MEL,refill,official,1572825,"Bourke Street between Spring Street and Exhibition Street, approximately 6m Sout",yes,-37.8119119,144.9707694
+MEL-F061,MEL,refill,official,1572828,"Lonsdale Street between Swanston Street and Elizabeth Street, approximately 30m ",yes,-37.8121163,144.9624265
+MEL-F062,MEL,refill,official,1573396,"Swanston Street between Little Bourke Street and Lonsdale Street, approximately ",yes,-37.8123781,144.9652122
+MEL-F063,MEL,fountain,official,1075257,"Swanston Street between Little Bourke Street and Lonsdale Street, approximately ",yes,-37.81243,144.9650154
+MEL-F064,MEL,refill,official,1576182,"Spring Street between Collins Street and Little Collins Street, approximately 6m",yes,-37.8124358,144.9736844
+MEL-F065,MEL,refill,official,1572824,"Bourke Street between Exhibition Street and Russell Street, approximately 3m Sou",yes,-37.8126178,144.9683506
+MEL-F066,MEL,refill,official,1560232,"William Street between Little Lonsdale Street and La Trobe Street, approximately",yes,-37.8126223,144.9569572
+MEL-F067,MEL,refill,official,1529766,"Swanston Street between Bourke Street and Little Bourke Street, approximately 7m",yes,-37.8127107,144.9653559
+MEL-F068,MEL,refill,official,1589921,"Fitzroy Gardens, approximately 48m NE of Yiaga, The Pavilion, Fitzroy Gardens, 2",yes,-37.8127668,144.9815544
+MEL-F069,MEL,fountain,official,1507386,"Spring Street between Collins Street and Little Collins Street, approximately 10",yes,-37.813197,144.9737447
+MEL-F070,MEL,refill,official,1572823,"Bourke Street between Russell Street and Swanston Street, approximately 6m North",yes,-37.8133147,144.9666513
+MEL-F071,MEL,refill,official,1749940,"Fitzroy Gardens, approximately 97m SW of Yiaga, The Pavilion, Fitzroy Gardens, 2",yes,-37.813587,144.9803405
+MEL-F072,MEL,fountain,official,1479845,"Bourke Street between Swanston Street and Elizabeth Street, approximately 12m NW",yes,-37.8137035,144.9652483
+MEL-F073,MEL,refill,official,1589364,"Treasury Gardens, approximately 45m South of Department of Premier and Cabinet, ",yes,-37.8137059,144.9749028
+MEL-F074,MEL,fountain,official,1075230,"Bourke Street between Swanston Street and Elizabeth Street, approximately 11m No",yes,-37.813709,144.9652192
+MEL-F075,MEL,fountain,official,1075229,"Bourke Street between Swanston Street and Elizabeth Street, approximately 7m NW ",yes,-37.8138656,144.9647509
+MEL-F076,MEL,fountain,official,1075228,"Bourke Street between Swanston Street and Elizabeth Street, approximately 8m SE ",yes,-37.8138922,144.9641121
+MEL-F077,MEL,refill,official,1572368,"Bourke Street between Swanston Street and Elizabeth Street, approximately 19m No",yes,-37.8140227,144.9637759
+MEL-F078,MEL,refill,official,1757707,"Fitzroy Gardens, approximately 22m SE of Serco Australia Pty Limited, Conservato",yes,-37.8142641,144.9786514
+MEL-F079,MEL,refill,official,1589363,Treasury Gardens,yes,-37.8143628,144.9760984
+MEL-F080,MEL,refill,official,1573397,"Swanston Street between Little Collins Street and Bourke Street, approximately 7",yes,-37.814372,144.9661333
+MEL-F081,MEL,refill,official,1589362,"Fitzroy Gardens, approximately 43m South of Food Truck - Site No B8 - Adj - Cons",yes,-37.8144365,144.977743
+MEL-F082,MEL,fountain,official,1579958,"Fitzroy Gardens, approximately 43m South of Cooks' Cottage, Fitzroy Gardens, 264",yes,-37.8148665,144.9793412
+MEL-F083,MEL,fountain,official,1586965,"Bourke Street between Queen Street and William Street, approximately 15m SW of T",yes,-37.8149692,144.9603505
+MEL-F084,MEL,fountain,official,1510291,"Russell Street between Flinders Lane and Collins Street, approximately 33m SW of",yes,-37.8150631,144.9689921
+MEL-F085,MEL,fountain,official,1510287,"Lonsdale Street between King Street and Spencer Street, approximately 25m West o",yes,-37.8151857,144.9525775
+MEL-F086,MEL,fountain,official,1722158,"McKillop Street between Bourke Street and Little Collins Street, approximately 6",yes,-37.8152214,144.9617262
+MEL-F087,MEL,fountain,official,1579966,"Fitzroy Gardens, approximately 43m NW of Fitzroy Gardens Visitor Centre, Visitor",yes,-37.8153621,144.9797049
+MEL-F088,MEL,refill,official,1572839,"Bourke Street between Queen Street and William Street, approximately 15m SW of T",yes,-37.8155399,144.9583664
+MEL-F089,MEL,fountain,official,1962520,"Swanston Street between Flinders Lane and Collins Street, approximately 26m East",yes,-37.8158782,144.9668217
+MEL-F090,MEL,refill,official,1575328,"Collins Street between Swanston Street and Elizabeth Street, approximately 9m NE",yes,-37.8160055,144.9651331
+MEL-F091,MEL,fountain,official,1491386,"Harbour Esplanade between Bourke Street and La Trobe Street, approximately 45m E",no,-37.8160081,144.945522
+MEL-F092,MEL,fountain,official,1075318,"Flinders Street between Spring Street and Exhibition Street, approximately 26m S",yes,-37.81601,144.9727025
+MEL-F093,MEL,refill,official,1596593,"Bourke Street between King Street and Spencer Street, approximately 9m SW of Bri",yes,-37.8163643,144.955399
+MEL-F094,MEL,refill,official,1075295,"Intersection of Wellington Parade and Powlett Street, approximately 34m SW of 7-",no,-37.8164909,144.9851575
+MEL-F095,MEL,refill,official,1314004,"William Street between Little Collins Street and Bourke Street, approximately 5m",yes,-37.8165599,144.9584794
+MEL-F096,MEL,fountain,official,1507869,"Flinders Street between Russell Street and Swanston Street, approximately 11m Ea",yes,-37.8167898,144.969337
+MEL-F097,MEL,fountain,official,1075240,"Yarra Park, approximately 74m SW of Metro Trains Melbourne Pty Ltd, Jolimont Sta",yes,-37.816927,144.9837045
+MEL-F098,MEL,refill,official,1852293,"Elizabeth Street between Flinders Lane and Collins Street, approximately 6m West",yes,-37.817054,144.9645524
+MEL-F099,MEL,refill,official,1636388,"Yarra Park, approximately 49m North of 120-132 Vale Street, EAST MELBOURNE VIC 3",no,-37.8173478,144.9877968
+MEL-F100,MEL,fountain,official,1075313,"Intersection of Collins Street and Market Street, approximately 5m NW of Market ",yes,-37.8174515,144.9601413
+MEL-F101,MEL,fountain,official,1507605,"Harbour Esplanade between Bourke Street and La Trobe Street, approximately 8m SW",no,-37.8176714,144.9462535
+MEL-F102,MEL,refill,official,1572354,"Flinders Street between Swanston Street and Elizabeth Street, approximately 2m N",yes,-37.8177512,144.9668728
+MEL-F103,MEL,fountain,official,1362238,"Flinders Street between Swanston Street and Elizabeth Street, approximately 4m N",yes,-37.8179067,144.9663258
+MEL-F104,MEL,refill,official,1075292,"King Street between Collins Street and Little Collins Street, approximately 39m ",yes,-37.8180379,144.9566253
+MEL-F105,MEL,fountain,official,1313408,"Victoria Harbour Promenade, approximately 52m South of 119-129 Harbour Esplanade",no,-37.8181263,144.945843
+MEL-F106,MEL,refill,official,1589922,"Birrarung Marr, approximately 29m NW of Artplay, Birrarung Marr, 73 Batman Avenu",yes,-37.8181803,144.9712825
+MEL-F107,MEL,fountain,official,1075233,"Yarra Park, approximately 36m South of 106 Jolimont Road, EAST MELBOURNE VIC 300",yes,-37.8184031,144.9788594
+MEL-F108,MEL,fountain,official,1547883,"Harbour Esplanade between Bourke Street and La Trobe Street, approximately 7m We",no,-37.818416,144.9465814
+MEL-F109,MEL,fountain,official,1360537,"Birrarung Marr, approximately 73m SE of Birrarung Marr, 73 Batman Avenue, MELBOU",yes,-37.8184661,144.9738821
+MEL-F110,MEL,fountain,official,1966369,"Birrarung Marr, approximately 65m SE of Artplay, Birrarung Marr, 73 Batman Avenu",yes,-37.8186719,144.9721467
+MEL-F111,MEL,refill,official,1757709,Birrarung Marr,yes,-37.818771,144.9740816
+MEL-F112,MEL,fountain,official,1966368,"Birrarung Marr, approximately 89m SW of Birrarung Marr, 73 Batman Avenue, MELBOU",yes,-37.8187811,144.9727914
+MEL-F113,MEL,fountain,official,1486733,"Batmans Hill Drive between Bourke Street and Collins Street, approximately 15m N",no,-37.8188456,144.9483776
+MEL-F114,MEL,refill,official,1075325,"Collins Street between King Street and Spencer Street, approximately 13m NE of B",yes,-37.8190677,144.9545198
+MEL-F115,MEL,fountain,official,1075247,"Northbank, approximately 66m East of City of Melbourne, Les Erdi Plaza, Northban",yes,-37.8193341,144.964437
+MEL-F116,MEL,fountain,official,1075248,"Northbank, approximately 49m East of City of Melbourne, Les Erdi Plaza, Northban",yes,-37.8193762,144.9642579
+MEL-F117,MEL,fountain,official,1075272,"Flinders Street between Market Street and William Street, approximately 22m Nort",yes,-37.8195601,144.9606004
+MEL-F118,MEL,fountain,official,1115273,"Alexandra Park, approximately 23m NE of Melbourne University Boat Club Inc., Mel",yes,-37.8195711,144.9718246
+MEL-F119,MEL,fountain,official,1798701,"Waterview Walk between Bourke Street and Batmans Hill Drive, approximately 34m W",no,-37.8197345,144.9475652
+MEL-F120,MEL,refill,official,1868362,"Southbank Promenade, approximately 15m SW of 2A Southbank Promenade, SOUTHBANK V",yes,-37.8200869,144.965298
+MEL-F121,MEL,fountain,official,1283951,Birrarung Marr,yes,-37.8201719,144.9751776
+MEL-F122,MEL,refill,official,1833526,"Enterprize Park, approximately 74m South of Clarion Suites Gateway, Reception Th",yes,-37.8201721,144.9597414
+MEL-F123,MEL,refill,official,1798734,"Hub@Docklands, approximately 32m SW of Chennai Biryani House, 2A Waterview Walk,",no,-37.8201778,144.948002
+MEL-F124,MEL,fountain,official,1489629,"Intersection of Flinders Street and Queens Bridge, approximately 47m South of Cu",yes,-37.8201821,144.9606079
+MEL-F125,MEL,refill,official,1757710,"Alexandra Gardens, approximately 50m NE of Residence Alexandra Gardens, 14 Alexa",yes,-37.8205514,144.9731743
+MEL-F126,MEL,fountain,official,1115230,Alexandra Gardens,yes,-37.8207065,144.9707031
+MEL-F127,MEL,refill,official,1075231,"Queensbridge Square, approximately 31m NE of Queensbridge Square, 1A Queens Brid",yes,-37.8209919,144.9617424
+MEL-F128,MEL,refill,official,1771848,"St Kilda Road between Yarra River and Southbank Boulevard, approximately 58m NE ",yes,-37.8212096,144.9694728
+MEL-F129,MEL,fountain,official,1283948,"Queen Victoria Gardens, approximately 77m North of Queen Victoria Gardens, 99-19",yes,-37.8212367,144.9707706
+MEL-F130,MEL,fountain,official,1874983,Alexandra Gardens,yes,-37.8214423,144.9738846
+MEL-F131,MEL,refill,official,1771970,"Queen Victoria Gardens, approximately 78m NE of My Daily Acai, Food Truck - Site",yes,-37.8216801,144.970037
+MEL-F132,MEL,refill,official,1870067,"Harbour Esplanade between McCrae Street and Collins Street, approximately 31m We",no,-37.8217812,144.9474533
+MEL-F133,MEL,refill,official,1589918,"Batman Park, approximately 58m SE of 32 Rebecca Walk, MELBOURNE VIC 3000",yes,-37.8218638,144.957259
+MEL-F134,MEL,refill,official,1924088,Kings Domain,yes,-37.8223828,144.9727375
+MEL-F135,MEL,refill,official,1749936,"Queen Victoria Gardens, approximately 67m South of Queen Victoria Gardens, 99-19",yes,-37.8224931,144.971144
+MEL-F136,MEL,fountain,official,1965449,"Seafarers Rest, approximately 32m SE of 1 Hotel Melbourne, 9 Maritime Place, DOC",no,-37.8229758,144.9511502
+MEL-F137,MEL,fountain,official,1848831,"Southbank Boulevard Reserve, approximately 17m SE of Southbank Boulevard Reserve",yes,-37.8232189,144.9649494
+MEL-F138,MEL,refill,official,1075307,"Olympic Boulevard between Punt Road and Batman Avenue, approximately 37m NW of T",yes,-37.8233761,144.9798517
+MEL-F139,MEL,fountain,official,1841161,"Intersection of Southbank Boulevard and Moore Street, approximately 40m West of ",yes,-37.8234721,144.966131
+MEL-F140,MEL,refill,official,1589912,"Kings Domain, approximately 87m NW of City of Melbourne, Alexandra Park, 24-70 A",yes,-37.8243504,144.9771113
+MEL-F141,MEL,refill,official,1589911,Kings Domain,yes,-37.8246966,144.9721174
+MEL-F142,MEL,fountain,official,1516263,"Boyd Community Hub, approximately 25m South of Southbank Library at Boyd, Part G",yes,-37.8255336,144.960998
+MEL-F143,MEL,fountain,official,1503054,"Grant Street Reserve, approximately 47m SW of Grant Street Reserve, 25-45 Grant ",yes,-37.8260191,144.968213
+MEL-F144,MEL,refill,official,1775763,"Boyd Community Hub, approximately 25m North of Southbank Library, Unit G2, Groun",yes,-37.8260585,144.9615313
+MEL-F145,MEL,fountain,official,1115245,"Miles and Dodds Street Reserve, approximately 10m West of Miles and Dodds Street",no,-37.828674,144.9672264
+MEL-F146,MEL,fountain,official,1756335,Kings Domain South,no,-37.8288095,144.9741313
+MEL-F147,MEL,refill,official,1756333,"Shrine of Remembrance Reserve, approximately 92m NW of Friends Of The Royal Bota",no,-37.8293949,144.9740264
+MEL-F148,MEL,fountain,official,1431554,"Sturt Street Reserve, approximately 27m NW of Sturt Street Reserve, 276-280 Stur",no,-37.829762,144.965024
+MEL-F149,MEL,refill,official,1757702,Shrine of Remembrance Reserve,no,-37.8302853,144.9726495
+MEL-F150,MEL,refill,official,1757703,"Shrine of Remembrance Reserve, approximately 95m South of Friends Of The Royal B",no,-37.8308156,144.9742751
+SYD-F001,SYD,fountain,official,7,Pottinger Park (West) The Paddock,no,-33.8571887,151.2055367
+SYD-F002,SYD,fountain,official,108,Munn Reserve,no,-33.8580658,151.2017617
+SYD-F003,SYD,fountain,official,138,Argyle Place Park,no,-33.8583963,151.2051778
+SYD-F004,SYD,fountain,official,267,"Nita McCrae Park, 17 Argyle Street",no,-33.8586681,151.203955
+SYD-F005,SYD,fountain,official,245,Observatory Hill Park,no,-33.8594153,151.2058638
+SYD-F006,SYD,fountain,official,93,Circular Quay,no,-33.8595623,151.2097115
+SYD-F007,SYD,fountain,official,78,Observatory Hill Park,yes,-33.8598289,151.2054162
+SYD-F008,SYD,fountain,official,139,Observatory Hill Park,yes,-33.8602445,151.2043244
+SYD-F009,SYD,fountain,official,76,Circular Quay,yes,-33.8612241,151.2123642
+SYD-F010,SYD,fountain,official,67,5020 Alfred Street,yes,-33.8616739,151.2103273
+SYD-F011,SYD,fountain,official,75,5020 Macquarie Street,yes,-33.8620896,151.2129731
+SYD-F012,SYD,fountain,official,66,4060 George Street,yes,-33.862399,151.2075672
+SYD-F013,SYD,fountain,official,113,5020 Macquarie Street,yes,-33.8627404,151.2130592
+SYD-F014,SYD,fountain,official,114,5020 Macquarie Street,yes,-33.8630092,151.2128423
+SYD-F015,SYD,fountain,official,5,4040 Kent Street,yes,-33.8631203,151.2040065
+SYD-F016,SYD,fountain,official,125,Pirrama Park,no,-33.863153,151.1934858
+SYD-F017,SYD,fountain,official,64,5060 Bridge Street,yes,-33.8633959,151.2121465
+SYD-F018,SYD,fountain,official,209,Pirrama Park,no,-33.8638109,151.1917373
+SYD-F019,SYD,fountain,official,80,Giba Park,no,-33.8640213,151.1922327
+SYD-F020,SYD,fountain,official,89,5030 Macquarie Street,yes,-33.864872,151.2125782
+SYD-F021,SYD,fountain,official,254,Pirrama Park,no,-33.8648884,151.1920066
+SYD-F022,SYD,fountain,official,140,Royal Botanic Gardens,yes,-33.8649203,151.2127854
+SYD-F023,SYD,fountain,official,115,5030 Macquarie Street,yes,-33.8653651,151.2125049
+SYD-F024,SYD,fountain,official,65,4090 George Street,yes,-33.8657066,151.2072069
+SYD-F025,SYD,fountain,official,142,5060 Cowper Wharf Roadway,no,-33.8660894,151.2238553
+SYD-F026,SYD,fountain,official,116,5040 Macquarie Street,yes,-33.8663278,151.2123551
+SYD-F027,SYD,fountain,official,117,5040 Macquarie Street,yes,-33.8663947,151.2126131
+SYD-F028,SYD,fountain,official,159,Wynyard Park,yes,-33.8669205,151.2060455
+SYD-F029,SYD,fountain,official,118,5050 Macquarie Street,yes,-33.8671649,151.2122511
+SYD-F030,SYD,fountain,official,31,St Neot Reserve,no,-33.8673493,151.2252265
+SYD-F031,SYD,fountain,official,68,4110 George Street,yes,-33.8678122,151.2071198
+SYD-F032,SYD,fountain,official,207,Embarkation Park,no,-33.8679298,151.2233487
+SYD-F033,SYD,fountain,official,53,5050 Macquarie Street,yes,-33.8680301,151.2120598
+SYD-F034,SYD,fountain,official,72,5040 King Street,yes,-33.8686614,151.2053992
+SYD-F035,SYD,fountain,official,4,5010 Victoria Street,no,-33.8688243,151.2233455
+SYD-F036,SYD,fountain,official,229,Pitt Street Mall,yes,-33.8690805,151.2083313
+SYD-F037,SYD,fountain,official,111,5090 King Street,yes,-33.8691285,151.2106317
+SYD-F038,SYD,fountain,official,228,Pitt Street Mall,yes,-33.8693391,151.208268
+SYD-F039,SYD,fountain,official,214,Barracks Square,yes,-33.8693481,151.212371
+SYD-F040,SYD,fountain,official,69,5110 George Street,yes,-33.86959,151.2070138
+SYD-F041,SYD,fountain,official,227,Pitt Street Mall,yes,-33.8697944,151.2083052
+SYD-F042,SYD,fountain,official,226,Pitt Street Mall,yes,-33.8700961,151.208244
+SYD-F043,SYD,fountain,official,91,4010 College Street,yes,-33.8704447,151.2135779
+SYD-F044,SYD,fountain,official,90,Hyde Park North,yes,-33.8712925,151.2114624
+SYD-F045,SYD,fountain,official,253,Woolloomooloo Playground,yes,-33.8713629,151.2211934
+SYD-F046,SYD,fountain,official,158,Elizabeth Healy Reserve,yes,-33.8713987,151.1951099
+SYD-F047,SYD,fountain,official,160,Cook and Phillip Park,yes,-33.8721795,151.2144715
+SYD-F048,SYD,fountain,official,255,Fitzroy Gardens,no,-33.8725186,151.2256613
+SYD-F049,SYD,fountain,official,82,Fitzroy Gardens,no,-33.8727019,151.2254411
+SYD-F050,SYD,fountain,official,97,5040 Druitt Street,yes,-33.8728933,151.2062075
+SYD-F051,SYD,fountain,official,273,Lawrence Hargrave Reserve,no,-33.8730759,151.2263062
+SYD-F052,SYD,fountain,official,170,Glebe Foreshore Walk East,no,-33.8731834,151.1865841
+SYD-F053,SYD,fountain,official,6,Glebe Foreshore Walk East,no,-33.8734339,151.1876524
+SYD-F054,SYD,fountain,official,110,Tumbalong Park,yes,-33.874485,151.2013542
+SYD-F055,SYD,fountain,official,109,5040 Bathurst Street,yes,-33.8745911,151.2074746
+SYD-F056,SYD,fountain,official,123,Hyde Park South,yes,-33.8746592,151.2101766
+SYD-F057,SYD,fountain,official,54,5140 George Street,yes,-33.8746859,151.2066425
+SYD-F058,SYD,fountain,official,55,5140 George Street,yes,-33.8747796,151.2068132
+SYD-F059,SYD,fountain,official,92,Hyde Park South,yes,-33.8749115,151.2121784
+SYD-F060,SYD,fountain,official,179,Wentworth Park,yes,-33.8754032,151.1919277
+SYD-F061,SYD,fountain,official,208,Fig Lane Park,yes,-33.8755464,151.1959996
+SYD-F062,SYD,fountain,official,204,Hyde Park South,yes,-33.8755641,151.2098401
+SYD-F063,SYD,fountain,official,180,Wentworth Park,yes,-33.8756177,151.1919459
+SYD-F064,SYD,fountain,official,178,Wentworth Park,yes,-33.8756425,151.1934725
+SYD-F065,SYD,fountain,official,237,Glebe Foreshore Walk Stage 5,no,-33.8758609,151.1892299
+SYD-F066,SYD,fountain,official,201,Hyde Park South,yes,-33.8759034,151.2119488
+SYD-F067,SYD,fountain,official,203,Hyde Park South,yes,-33.876355,151.2100132
+SYD-F068,SYD,fountain,official,202,Hyde Park South,yes,-33.8764463,151.211755
+SYD-F069,SYD,fountain,official,269,Womerah Gardens,no,-33.8767271,151.2262215
+SYD-F070,SYD,fountain,official,27,Quarry St Streetscape,yes,-33.876757,151.1969691
+SYD-F071,SYD,fountain,official,174,Thomas Portley Reserve,no,-33.8767718,151.1901951
+SYD-F072,SYD,fountain,official,56,5150 George Street,yes,-33.8767948,151.2059161
+SYD-F073,SYD,fountain,official,112,5060 Liverpool Street,yes,-33.8769061,151.2092483
+SYD-F074,SYD,fountain,official,57,5150 George Street,yes,-33.8769112,151.2061012
+SYD-F075,SYD,fountain,official,28,Quarry St Streetscape,yes,-33.8770199,151.1962127
+SYD-F076,SYD,fountain,official,79,5090 Harris Street,yes,-33.8773311,151.198255
+SYD-F077,SYD,fountain,official,42,Cardigan St Park,no,-33.877331,151.18975
+SYD-F078,SYD,fountain,official,46,Sarah Peninton Reserve,no,-33.8773724,151.1871982
+SYD-F079,SYD,fountain,official,177,Wentworth Park,yes,-33.8778688,151.1946189
+SYD-F080,SYD,fountain,official,262,Albert Sloss Reserve,yes,-33.8780058,151.2161959
+SYD-F081,SYD,fountain,official,217,Millard Reserve,yes,-33.8782304,151.1922143
+SYD-F082,SYD,fountain,official,124,Oxford Square,yes,-33.8782383,151.2144766
+SYD-F083,SYD,fountain,official,260,4020 Wentworth Avenue,yes,-33.8786873,151.2107965
+SYD-F084,SYD,fountain,official,120,5040 Wentworth Park Road,yes,-33.8787555,151.1926897
+SYD-F085,SYD,fountain,official,232,Wentworth Park,yes,-33.878758,151.1943523
+SYD-F086,SYD,fountain,official,58,5160 George Street,yes,-33.8788304,151.2054254
+SYD-F087,SYD,fountain,official,61,4180 George Street,yes,-33.8789423,151.2056061
+SYD-F088,SYD,fountain,official,73,4020 Harbour Street,yes,-33.8792056,151.2034739
+SYD-F089,SYD,fountain,official,171,Harmony Park (Surry Hills Park),yes,-33.8792068,151.2124196
+SYD-F090,SYD,fountain,official,176,Wentworth Park,yes,-33.8792207,151.1945002
+SYD-F091,SYD,fountain,official,200,M J (Paddy) Doherty Reserve,yes,-33.8793185,151.1924069
+SYD-F092,SYD,fountain,official,84,Green Park,no,-33.8793631,151.2208239
+SYD-F093,SYD,fountain,official,77,5050 MacArthur Street,yes,-33.8795918,151.1986796
+SYD-F094,SYD,fountain,official,172,Harmony Park (Surry Hills Park),yes,-33.8800134,151.2119121
+SYD-F095,SYD,fountain,official,135,3020 Hay Street,yes,-33.8802295,151.208254
+SYD-F096,SYD,fountain,official,59,4200 George Street,yes,-33.8802967,151.2049602
+SYD-F097,SYD,fountain,official,191,Belmore Park (west of Railway),yes,-33.8805083,151.2074001
+SYD-F098,SYD,fountain,official,60,4200 George Street,yes,-33.880539,151.2050867
+SYD-F099,SYD,fountain,official,52,James Hilder Reserve,yes,-33.8806237,151.2125387
+SYD-F100,SYD,fountain,official,218,Mary Ann Street Park,yes,-33.8807116,151.1987298
+SYD-F101,SYD,fountain,official,18,5070 St Johns Road,no,-33.8807412,151.1880685
+SYD-F102,SYD,fountain,official,24,Glebe Street Playground,no,-33.8809702,151.1909057
+SYD-F103,SYD,fountain,official,128,McKee Street Reserve,yes,-33.8811568,151.1975982
+SYD-F104,SYD,fountain,official,198,4020 Barcom Avenue,no,-33.8812046,151.2204468
+SYD-F105,SYD,fountain,official,21,4040 Glebe Street,no,-33.8820297,151.1923531
+SYD-F106,SYD,fountain,official,137,5030 Quay Street,yes,-33.8821558,151.2037443
+SYD-F107,SYD,fountain,official,136,5010 Eddy Avenue,yes,-33.882278,151.2066598
+SYD-F108,SYD,fountain,official,187,Frog Hollow Reserve,yes,-33.8830019,151.2125179
+SYD-F109,SYD,fountain,official,197,Wattle & Broadway Rest Area,yes,-33.8841035,151.1983152
+SYD-F110,SYD,fountain,official,149,Jubilee Fountain Plaza,no,-33.8844064,151.1927556
+SYD-F111,SYD,fountain,official,1,5010 Abercrombie Street,yes,-33.8844964,151.1985369
+SYD-F112,SYD,fountain,official,261,Chippendale Green,yes,-33.8855588,151.1999902
+SYD-F113,SYD,fountain,official,44,Shannon Reserve,no,-33.8857447,151.2140664
+SYD-F114,SYD,fountain,official,33,5040 O'Connor Street ,yes,-33.8861424,151.2016711
+SYD-F115,SYD,fountain,official,224,Prince Alfred Park,yes,-33.8861478,151.2067002
+SYD-F116,SYD,fountain,official,39,5020 Holt Street,no,-33.8866731,151.2089752
+SYD-F117,SYD,fountain,official,196,Peace Park,no,-33.8870636,151.1965995
+SYD-F118,SYD,fountain,official,40,4070 Waterloo Street,no,-33.8871914,151.21005
+SYD-F119,SYD,fountain,official,223,Prince Alfred Park,no,-33.8874159,151.2049548
+SYD-F120,SYD,fountain,official,163,Eddie Ward Park,no,-33.8887687,151.2111256
+SYD-F121,SYD,fountain,official,230,Eddie Ward Park,no,-33.888978,151.2118759
+SYD-F122,SYD,fountain,official,222,Prince Alfred Park,no,-33.8890776,151.2029181
+SYD-F123,SYD,fountain,official,14,Reconciliation Park,no,-33.8901157,151.2033487
+NYC-F001,NYC,fountain,official,M038-DF0617,James J Walker Park,no,40.729555,-74.006449
+NYC-F002,NYC,fountain,official,M120A-DF0614,William F. Passannante Ballfield,no,40.72872,-74.002423
+NYC-F003,NYC,fountain,official,M120B-DF0615,Playground of the Americas,no,40.72807,-74.002756
+NYC-F004,NYC,fountain,official,M207-DF0454,Father Fagan Park,no,40.726766,-74.003249
+NYC-F005,NYC,fountain,official,M069-DF0319,Vesuvio Playground,yes,40.725569,-74.00244
+NYC-F006,NYC,fountain,official,M069-DF0320,Vesuvio Playground,yes,40.725256,-74.002487
+NYC-F007,NYC,fountain,official,MZ02-DF0870,Spring Street Park,yes,40.724983,-74.004543
+NYC-F008,NYC,fountain,official,M124-DF0220,First Park,no,40.723499,-73.989295
+NYC-F009,NYC,fountain,official,M124-DF0221,First Park,no,40.723253,-73.988963
+NYC-F010,NYC,fountain,official,M105-DF0219,Sara D. Roosevelt Park,no,40.722622,-73.991287
+NYC-F011,NYC,fountain,official,M105-DF0010,Sara D. Roosevelt Park,no,40.722536,-73.990968
+NYC-F012,NYC,fountain,official,M222-DF0269,Grand Canal Court,yes,40.722187,-74.005022
+NYC-F013,NYC,fountain,official,M145-DF0270,Albert Capsouto Park,yes,40.721924,-74.005727
+NYC-F014,NYC,fountain,official,M218-DF0874,DeSalvio Playground,yes,40.721709,-73.995975
+NYC-F015,NYC,fountain,official,M170-DF0301,Petrosino Square,yes,40.721641,-73.997447
+NYC-F016,NYC,fountain,official,M105-DF1085,Sara D. Roosevelt Park,yes,40.720843,-73.992134
+NYC-F017,NYC,fountain,official,M105-DF0218,Sara D. Roosevelt Park,yes,40.720299,-73.992489
+NYC-F018,NYC,fountain,official,M006-DF0348,Tribeca Park,yes,40.720161,-74.005643
+NYC-F019,NYC,fountain,official,M080-DF0448,Schiff Mall,yes,40.718997,-73.990402
+NYC-F020,NYC,fountain,official,M105-DF0217,Sara D. Roosevelt Park,yes,40.718638,-73.99335
+NYC-F021,NYC,fountain,official,M283-DF0195,Battery Park City,yes,40.71791,-74.015756
+NYC-F022,NYC,fountain,official,M283-DF0193,Battery Park City,yes,40.717419,-74.016409
+NYC-F023,NYC,fountain,official,M308-DF0350,Washington Market Park,yes,40.717411,-74.011477
+NYC-F024,NYC,fountain,official,M105-DF0216,Sara D. Roosevelt Park,yes,40.717326,-73.993862
+NYC-F025,NYC,fountain,official,M308-DF0872,Washington Market Park,yes,40.717227,-74.012169
+NYC-F026,NYC,fountain,official,M105-DF0006,Sara D. Roosevelt Park,yes,40.717223,-73.993718
+NYC-F027,NYC,fountain,official,M308-DF0876,Washington Market Park,yes,40.717211,-74.012021
+NYC-F028,NYC,fountain,official,M308-DF0349,Washington Market Park,yes,40.716948,-74.011153
+NYC-F029,NYC,fountain,official,M283-DF0192,Battery Park City,yes,40.716895,-74.016725
+NYC-F030,NYC,refill,official,M105-DF0007,Sara D. Roosevelt Park,yes,40.716851,-73.994166
+NYC-F031,NYC,fountain,official,M283-DF0198,Battery Park City,yes,40.716622,-74.014126
+NYC-F032,NYC,fountain,official,M105-DF0682,Sara D. Roosevelt Park,yes,40.71651,-73.994433
+NYC-F033,NYC,fountain,official,M242-DF0445,Collect Pond Park,yes,40.716497,-74.001857
+NYC-F034,NYC,fountain,official,M004-DF0447,Allen Street Malls,yes,40.716342,-73.991873
+NYC-F035,NYC,fountain,official,M283-DF0199,Battery Park City,yes,40.716241,-74.01433
+NYC-F036,NYC,fountain,official,M283-DF0200,Battery Park City,yes,40.716189,-74.014356
+NYC-F037,NYC,fountain,official,M105-DF0215,Sara D. Roosevelt Park,yes,40.716139,-73.994615
+NYC-F038,NYC,fountain,official,M242-DF0446,Collect Pond Park,yes,40.716021,-74.001724
+NYC-F039,NYC,fountain,official,M283-DF0191,Battery Park City,yes,40.715963,-74.016713
+NYC-F040,NYC,fountain,official,M283-DF0190,Battery Park City,yes,40.715772,-74.016726
+NYC-F041,NYC,fountain,official,M015-DF0444,Columbus Park,yes,40.715755,-74.000245
+NYC-F042,NYC,fountain,official,M283-DF0201,Battery Park City,yes,40.71572,-74.0146
+NYC-F043,NYC,fountain,official,M015-DF0443,Columbus Park,yes,40.71562,-73.999775
+NYC-F044,NYC,fountain,official,M015-DF0442,Columbus Park,yes,40.715298,-73.999717
+NYC-F045,NYC,fountain,official,M082-DF0213,Seward Park,yes,40.715187,-73.989358
+NYC-F046,NYC,fountain,official,M030-DF0437,Thomas Paine Park,yes,40.714877,-74.001884
+NYC-F047,NYC,fountain,official,M082-DF0212,Seward Park,yes,40.714851,-73.98921
+NYC-F048,NYC,fountain,official,M030-DF0351,Thomas Paine Park,yes,40.714829,-74.002704
+NYC-F049,NYC,fountain,official,M015-DF0441,Columbus Park,yes,40.714812,-74.000032
+NYC-F050,NYC,fountain,official,M015-DF0440,Columbus Park,yes,40.714797,-74.00025
+NYC-F051,NYC,fountain,official,M015-DF0438,Columbus Park,yes,40.714554,-73.9997
+NYC-F052,NYC,fountain,official,M082-DF0214,Seward Park,yes,40.714542,-73.989797
+NYC-F053,NYC,fountain,official,M283-DF0185,Battery Park City,yes,40.714483,-74.01732
+NYC-F054,NYC,fountain,official,M082-DF0288,Seward Park,yes,40.714419,-73.989673
+NYC-F055,NYC,fountain,official,M235-DF0295,Sol Lain Plgd,no,40.714373,-73.983975
+NYC-F056,NYC,fountain,official,M235-DF0297,Sol Lain Plgd,no,40.714372,-73.983991
+NYC-F057,NYC,refill,official,M235-DF0298,Sol Lain Plgd,no,40.714308,-73.983608
+NYC-F058,NYC,refill,official,M235-DF0296,Sol Lain Plgd,no,40.714267,-73.983972
+NYC-F059,NYC,fountain,official,M015-DF0439,Columbus Park,yes,40.714191,-73.999755
+NYC-F060,NYC,fountain,official,M283-DF0183,Battery Park City,yes,40.713545,-74.016883
+NYC-F061,NYC,fountain,official,M013-DF0343,City Hall Park,yes,40.713511,-74.006472
+NYC-F062,NYC,fountain,official,M067-DF0433,Sophie Irene Loeb,yes,40.713259,-73.994251
+NYC-F063,NYC,fountain,official,M013-DF0344,City Hall Park,yes,40.712831,-74.005154
+NYC-F064,NYC,fountain,official,M283-DF0178,Battery Park City,yes,40.712662,-74.016357
+NYC-F065,NYC,fountain,official,M132-DF0291,Little Flower Playground,no,40.712595,-73.987928
+NYC-F066,NYC,fountain,official,M132-DF0289,Little Flower Playground,yes,40.712428,-73.988497
+NYC-F067,NYC,fountain,official,M132-DF0290,Little Flower Playground,yes,40.712194,-73.988578
+NYC-F068,NYC,fountain,official,M064-DF0294,Lillian D Wald Playground,no,40.712181,-73.984403
+NYC-F069,NYC,fountain,official,M196-DF0435,Playground One,yes,40.712158,-73.997463
+NYC-F070,NYC,fountain,official,M196-DF0436,Playground One,yes,40.712143,-73.997275
+NYC-F071,NYC,fountain,official,M064-DF0293,Lillian D Wald Playground,no,40.711958,-73.983973
+NYC-F072,NYC,fountain,official,M283A-DF0177,Battery Park City,yes,40.711958,-74.016869
+NYC-F073,NYC,fountain,official,MZ458-DF0918,GREENSTREET,yes,40.711776,-73.99227
+NYC-F074,NYC,fountain,official,M255-DF0347,James Madison Plaza,yes,40.711418,-74.000545
+NYC-F075,NYC,fountain,official,M171-DF0292,Cherry Clinton Playground,no,40.7114,-73.986474
+NYC-F076,NYC,fountain,official,M019-DF0432,Coleman Playground,yes,40.711273,-73.994094
+NYC-F077,NYC,fountain,official,M019-DF0431,Coleman Playground,yes,40.711118,-73.993253
+NYC-F078,NYC,fountain,official,M194-DF0426,Alfred E. Smith Playground,yes,40.711096,-73.99738
+NYC-F079,NYC,fountain,official,M004-DF0450,Allen Street Malls,yes,40.711044,-73.992124
+NYC-F080,NYC,fountain,official,M019-DF0430,Coleman Playground,yes,40.710721,-73.993639
+NYC-F081,NYC,fountain,official,M206-DF0429,Tanahey Playground,yes,40.710375,-73.994577
+NYC-F082,NYC,fountain,official,M194-DF0434,Alfred E. Smith Playground,yes,40.710259,-73.997886
+NYC-F083,NYC,fountain,official,M391-DF0472,East River Waterfront Esplanade,yes,40.710068,-73.989391
+NYC-F084,NYC,fountain,official,M206-DF0427,Tanahey Playground,yes,40.710056,-73.995903
+NYC-F085,NYC,fountain,official,M178-DF0428,Catherine Slip Malls,yes,40.710044,-73.996139
+NYC-F086,NYC,fountain,official,M283-DF0176,Battery Park City,yes,40.710001,-74.01813
+NYC-F087,NYC,fountain,official,M391-DF0471,East River Waterfront Esplanade,yes,40.70973,-73.991523
+NYC-F088,NYC,fountain,official,M391-DF0470,East River Waterfront Esplanade,yes,40.709725,-73.991521
+NYC-F089,NYC,fountain,official,M385-DF0871,DeLury Square,yes,40.708996,-74.004951
+NYC-F090,NYC,fountain,official,M283-DF0875,Battery Park City,yes,40.708757,-74.018505
+NYC-F091,NYC,fountain,official,M378-DF0335,Pearl St Playground,yes,40.707895,-74.003817
+NYC-F092,NYC,fountain,official,M283-DF0173,Battery Park City,yes,40.707885,-74.018144
+NYC-F093,NYC,fountain,official,M283-DF0172,Battery Park City,yes,40.706856,-74.018332
+NYC-F094,NYC,fountain,official,M386-DF0334,Imagination Playground,yes,40.706186,-74.003964
+NYC-F095,NYC,fountain,official,M283-DF0171,Battery Park City,yes,40.705065,-74.01839
+NYC-F096,NYC,fountain,official,M391-DF0333,East River Waterfront Esplanade,yes,40.704837,-74.005052
+NYC-F097,NYC,fountain,official,M283-DF0170,Battery Park City,yes,40.704719,-74.017973
+NYC-F098,NYC,fountain,official,M005-DF0280,The Battery,yes,40.704494,-74.015621
+NYC-F099,NYC,fountain,official,M005-DF0597,The Battery,yes,40.704375,-74.016268
+NYC-F100,NYC,fountain,official,B431-DF0947,Brooklyn Bridge Park,no,40.704142,-73.98942
+NYC-F101,NYC,refill,official,B431-DF0946,Brooklyn Bridge Park,no,40.704065,-73.990148
+NYC-F102,NYC,fountain,official,M005-DF0278,The Battery,yes,40.703954,-74.014715
+NYC-F103,NYC,fountain,official,M391-DF0332,East River Waterfront Esplanade,yes,40.703559,-74.006942
+NYC-F104,NYC,fountain,official,M005-DF0279,The Battery,yes,40.703489,-74.016013
+NYC-F105,NYC,fountain,official,M391-DF0331,East River Waterfront Esplanade,yes,40.703209,-74.007514
+NYC-F106,NYC,fountain,official,M005-DF0281,The Battery,yes,40.702895,-74.01676
+NYC-F107,NYC,fountain,official,M005-DF0282,The Battery,yes,40.702604,-74.015968
+NYC-F108,NYC,fountain,official,M005-DF0283,The Battery,yes,40.702428,-74.016282
+NYC-F109,NYC,fountain,official,M005-DF0900,The Battery,yes,40.702222,-74.01299
+NYC-F110,NYC,fountain,official,M005-DF0286,The Battery,yes,40.702097,-74.016392
+NYC-F111,NYC,fountain,official,M005-DF0284,The Battery,yes,40.702042,-74.015144
+NYC-F112,NYC,fountain,official,M005-DF0285,The Battery,yes,40.701782,-74.015685
+NYC-F113,NYC,fountain,official,B223G-DF0888,Hillside Dog Park,no,40.701741,-73.994348
+NYC-F114,NYC,fountain,official,B223G-DF0206,Hillside Dog Park,no,40.701539,-73.994676
+NYC-F115,NYC,fountain,official,M005-DF0899,The Battery,yes,40.701505,-74.012686
+NYC-F116,NYC,fountain,official,B223F-DF0887,Squibb Park,no,40.70103,-73.995422
+NYC-F117,NYC,fountain,official,B223F-DF0886,Squibb Park,no,40.70094,-73.995341
+NYC-F118,NYC,fountain,official,B223H-DF0203,Harry Chapin Playground,no,40.700561,-73.995147
+NYC-F119,NYC,fountain,official,B223DJ-DF0945,Brooklyn Heights Promenade,no,40.699688,-73.996176
+NYC-F120,NYC,fountain,official,B223DG-DF0944,Brooklyn Heights Promenade,no,40.697846,-73.997102
+SFO-F001,SFO,fountain,official,8170287419589099041,Helen Wills Playground - Drinking Fountain/Cooler,no,37.7957183,-122.4204804
+SFO-F002,SFO,fountain,official,6118301119217379991,Betty Ann Ong Rec Center - Drinking Fountain/Cooler,no,37.794374,-122.411851
+SFO-F003,SFO,fountain,official,3525545761948309492,Betty Ann Ong Rec Center - Drinking Fountain/Cooler,no,37.7942913,-122.4116942
+SFO-F004,SFO,fountain,official,527951557591090296,Betty Ann Ong Rec Center - Drinking Fountain/Cooler,no,37.7942909,-122.4116943
+SFO-F005,SFO,fountain,official,5404870891905959329,Washington & Hyde Mini Park - Drinking Fountain/Cooler,no,37.7940325,-122.4174307
+SFO-F006,SFO,fountain,official,4757979431748054379,Collis P Huntington Park - Drinking Fountain/Cooler,no,37.7920783,-122.4123823
+SFO-F007,SFO,fountain,official,8304538138844523980,St. Mary's Square - Drinking Fountain/Cooler,no,37.7917253,-122.4051629
+SFO-F008,SFO,fountain,official,2898428743203626165,Lafayette Park - Drinking Fountain/Cooler,no,37.7915963,-122.428178
+SFO-F009,SFO,fountain,official,4248705948932618430,Lafayette Park - Drinking Fountain/Cooler,no,37.7913142,-122.4286196
+SFO-F010,SFO,fountain,official,3187026663008254346,Lafayette Park - Drinking Fountain/Cooler,yes,37.7910143,-122.4273439
+SFO-F011,SFO,fountain,official,1962399233225860428,Union Square - Drinking Fountain/Cooler,yes,37.7878793,-122.4069773
+SFO-F012,SFO,fountain,official,2036000194374204411,Cottage Row Mini Park - Drinking Fountain/Cooler,yes,37.7864113,-122.4322724
+SFO-F013,SFO,fountain,official,5411946156804078225,Sgt. John Macaulay Park - Drinking Fountain/Cooler,yes,37.7853871,-122.4182481
+SFO-F014,SFO,fountain,official,2181557672935071184,Drinking Fountain/Cooler,yes,37.785379,-122.4180958
+SFO-F015,SFO,fountain,official,5948336464039972921,Tenderloin Rec Center - Drinking Fountain/Cooler,yes,37.7847997,-122.415477
+SFO-F016,SFO,fountain,official,553327191147343062,Father Alfred Boeddeker Park - Drinking Fountain/Cooler,yes,37.7843331,-122.4122083
+SFO-F017,SFO,fountain,official,8161736808373498780,Raymond Kimball Playground - Kimball Path Drinking Fountain,no,37.7837091,-122.4354035
+SFO-F018,SFO,fountain,official,9212190466133808116,Kimball Children's Play Area Drinking Fountain,yes,37.7837047,-122.4350831
+SFO-F019,SFO,fountain,official,2493746181283595712,Presidio Wall Playground - Kimball Path Bottle filling station,yes,37.7828656,-122.4345228
+SFO-F020,SFO,fountain,official,1366325257993660288,Turk & Hyde Mini Park - Drinking Fountain/Cooler,yes,37.7826687,-122.4159462
+SFO-F021,SFO,fountain,official,223277438959010252,Raymond Kimbell Playground - Drinking Fountain/Cooler,yes,37.7824881,-122.4355881
+SFO-F022,SFO,refill,official,7376495296883677357,Salvation Army Headquarters,no,37.7814174,-122.4020001
+SFO-F023,SFO,fountain,official,5461726902635826407,Margaret S Hayward Playground - Drinking Fountain/Cooler,yes,37.7812634,-122.4251937
+SFO-F024,SFO,refill,official,956935023348360657,525 Golden Gate,yes,37.7809272,-122.419371
+SFO-F025,SFO,fountain,official,6413834034610510735,Margaret S Hayward Playground - Drinking Fountain/Cooler,yes,37.7808794,-122.425379
+SFO-F026,SFO,fountain,official,1845459476210799267,Margaret S Hayward Playground - Drinking Fountain/Cooler,yes,37.7807855,-122.4268156
+SFO-F027,SFO,fountain,official,8274872809217283840,Margaret S Hayward Playground - Hayward Path Drinking Fountain,yes,37.7807406,-122.4266307
+SFO-F028,SFO,fountain,official,3254791043349026437,Margaret S Hayward Playground - Drinking Fountain/Cooler,yes,37.7806946,-122.4268464
+SFO-F029,SFO,fountain,official,994828838777974549,Joseph L Alioto Performing Arts Piazza - Drinking Fountain/Cooler,yes,37.7799031,-122.4173059
+SFO-F030,SFO,fountain,official,4227099170558271829,Joseph L Alioto Performing Arts Piazza - Drinking Fountain/Cooler,yes,37.7791656,-122.4172214
+SFO-F031,SFO,fountain,official,8201030333236696668,Victoria Manalo Draves Park - Drinking Fountain/Cooler,yes,37.7773695,-122.4064621
+SFO-F032,SFO,fountain,official,1455304753391163821,Victoria Manalo Draves Park - Drinking Fountain/Cooler,yes,37.777127,-122.406189
+SFO-F033,SFO,fountain,official,1782667400322195053,Alamo Square - Alamo Path Drinking Fountain,yes,37.7766746,-122.433905
+SFO-F034,SFO,fountain,official,698596689453154348,Hayes Valley Playground - Drinking Fountain/Cooler,yes,37.7760696,-122.4274129
+SFO-F035,SFO,fountain,official,957720093381292626,Patricia's Green in Hayes Valley - Drinking Fountain/Cooler,yes,37.7759467,-122.4244543
+SFO-F036,SFO,fountain,official,1550815549017203860,Alamo Square - Drinking Fountain/Cooler,yes,37.7757185,-122.4346182
+SFO-F037,SFO,fountain,official,1776215359271845628,Duboce Park - Drinking Fountain/Cooler,no,37.7694133,-122.4334909
+SFO-F038,SFO,fountain,official,8986102282459664451,Duboce Park - Drinking Fountain/Cooler,no,37.7694062,-122.4335696
+SFO-F039,SFO,refill,official,6602640275624901656,Arriba Juntos,yes,37.76735,-122.420036
+SFO-F040,SFO,refill,official,6928189952947179522,SF SPCA,no,37.765617,-122.412366
+SFO-F041,SFO,fountain,official,8671485529920848891,Franklin Square - Drinking Fountain/Cooler,no,37.7648072,-122.4091043
+SFO-F042,SFO,fountain,official,8224894015407532823,Franklin Square - Garfield Children's Play Area Path,no,37.7646092,-122.4094857
+SFO-F043,SFO,fountain,official,7551241608202316725,Kid Power Park - Drinking Fountain/Cooler,no,37.7641676,-122.4202453
+SFO-F044,SFO,fountain,official,8875665792169084226,In Chan Kaajal Park - In Chan KaJaal Path Drinking fountain,no,37.7640845,-122.4159935
+SFO-F045,SFO,fountain,official,7043634281295152640,In Chan Kaajal Park - Drinking Fountain/Cooler,no,37.7637972,-122.4155559
+PAR-F001,PAR,fountain,official,450072968,Rue Sainte Cecile,no,48.873023,2.3478204
+PAR-F002,PAR,fountain,official,450019328,Place Jacques Bonsergent,no,48.8711966,2.3608499
+PAR-F003,PAR,fountain,official,450080127,Impasse Bonne Nouvelle,no,48.8711572,2.350573
+PAR-F004,PAR,fountain,official,450085159,Rue De Metz,no,48.8710104,2.3534776
+PAR-F005,PAR,fountain,official,450071730,Square Jacques Bidault,no,48.86991,2.3499483
+PAR-F006,PAR,fountain,official,450071928,Square Frederick Lemaitre,no,48.8693008,2.3666983
+PAR-F007,PAR,fountain,official,450019322,Rue Saint Spire,yes,48.8684008,2.3501972
+PAR-F008,PAR,fountain,official,450080637,Rue D Aboukir,yes,48.8681457,2.3484971
+PAR-F009,PAR,fountain,official,450071284,Place De La Republique,no,48.8680441,2.3632374
+PAR-F010,PAR,fountain,official,450071728,Square Louvois,no,48.8679678,2.3372605
+PAR-F011,PAR,fountain,official,450019316,Rue Notre Dame De Nazareth,yes,48.8674999,2.3585768
+PAR-F012,PAR,fountain,official,450072131,Boulevard Jules Ferry,no,48.867464,2.3682616
+PAR-F013,PAR,fountain,official,450071325,Place De La Republique,yes,48.8672249,2.3646711
+PAR-F014,PAR,fountain,official,450019297,Boulevard De Sebastopol,yes,48.8671595,2.3531719
+PAR-F015,PAR,fountain,official,450081017,Rue Montmartre,yes,48.8669934,2.3440176
+PAR-F016,PAR,fountain,official,450077212,Rue Leopold Bellan,yes,48.8666464,2.3447508
+PAR-F017,PAR,fountain,official,450019288,Rue Jean Pierre Timbaud,no,48.8663154,2.3718708
+PAR-F018,PAR,fountain,official,450072935,Place Des Petits Peres,yes,48.8663107,2.3405776
+PAR-F019,PAR,fountain,official,450071602,Rue Du Temple,yes,48.8649071,2.3601981
+PAR-F020,PAR,fountain,official,450019296,Rue De La Corderie,yes,48.864853,2.3631578
+PAR-F021,PAR,fountain,official,450080114,Rue Tiquetonne,yes,48.8647429,2.3459723
+PAR-F022,PAR,fountain,official,450085257,Rue Jacquard,no,48.8647037,2.3730793
+PAR-F023,PAR,fountain,official,450084785,Rue Amelot,yes,48.8642209,2.3667464
+PAR-F024,PAR,fountain,official,450071601,Rue De Bretagne,yes,48.8640352,2.3610034
+PAR-F025,PAR,fountain,official,450019163,Boulevard Richard Lenoir,no,48.8633564,2.3714254
+PAR-F026,PAR,fountain,official,450085487,Boulevard Voltaire,no,48.8630111,2.3717385
+PAR-F027,PAR,fountain,official,450077486,Allee Louis Aragon,yes,48.8629126,2.3436089
+PAR-F028,PAR,fountain,official,450077490,Place Rene Cassin,yes,48.8628004,2.3452765
+PAR-F029,PAR,fountain,official,450077485,Rue De Viarmes,yes,48.8626403,2.343423
+PAR-F030,PAR,fountain,official,450080385,Allee Blaise Cendrars,yes,48.8625837,2.3453592
+PAR-F031,PAR,fountain,official,450077489,Place Carree,yes,48.8623963,2.3444809
+PAR-F032,PAR,fountain,official,450077487,Allee Blaise Cendrars,yes,48.8622997,2.3438005
+PAR-F033,PAR,fountain,official,450077672,Allee Andre Breton,yes,48.8622939,2.3454988
+PAR-F034,PAR,fountain,official,450019286,Boulevard Richard Lenoir,no,48.8621991,2.3721302
+PAR-F035,PAR,fountain,official,450077671,Rue Baltard,yes,48.8621407,2.346053
+PAR-F036,PAR,fountain,official,450080384,Allee Blaise Cendrars,yes,48.862095,2.3437348
+PAR-F037,PAR,fountain,official,450077488,Rue Du Cinema,yes,48.8620388,2.3450264
+PAR-F038,PAR,fountain,official,450071731,Jardin Anne Franck,yes,48.8619086,2.3550338
+PAR-F039,PAR,fountain,official,450080319,Rue Berger,yes,48.8618683,2.3448275
+PAR-F040,PAR,fountain,official,450072939,Rue Des Haudriettes,yes,48.8617606,2.3570436
+PAR-F041,PAR,fountain,official,450072927,Rue De La Cossonnerie,yes,48.8615202,2.3483492
+PAR-F042,PAR,fountain,official,450080155,Boulevard Voltaire,no,48.8607615,2.3748262
+PAR-F043,PAR,fountain,official,450080731,Boulevard Voltaire,no,48.860513,2.3737199
+PAR-F044,PAR,fountain,official,450071732,Jardin De L Hotel Sale,yes,48.8601603,2.3613754
+PAR-F045,PAR,fountain,official,450019158,Boulevard Richard Lenoir,no,48.8600117,2.3723215
+PAR-F046,PAR,fountain,official,450080375,Place Edmond Michelet,yes,48.8598968,2.3504136
+PAR-F047,PAR,fountain,official,450085535,Rue De Thorigny,yes,48.8594855,2.3623522
+PAR-F048,PAR,fountain,official,450071742,Rue Villehardouin,yes,48.8593759,2.3653778
+PAR-F049,PAR,fountain,official,450071748,Rue De L Abbe Migne,yes,48.8588982,2.3580558
+PAR-F050,PAR,fountain,official,450085468,Rue Du Pont Neuf,yes,48.8587733,2.3429261
+PAR-F051,PAR,fountain,official,450071756,Rue Des Blancs Manteaux,yes,48.8587423,2.3564628
+PAR-F052,PAR,fountain,official,450019160,Square Breguet-Sabin,yes,48.8584654,2.3716261
+PAR-F053,PAR,fountain,official,450080583,Rue Du Chemin Vert,yes,48.8584618,2.3727095
+PAR-F054,PAR,fountain,official,450085483,Villa Marces,no,48.8584158,2.3751298
+PAR-F055,PAR,fountain,official,450081044,Rue Du Temple,yes,48.8583634,2.3533237
+PAR-F056,PAR,fountain,official,450071741,Rue Du Parc Royal,yes,48.8582885,2.3636487
+PAR-F057,PAR,fountain,official,450071750,Square De La Tour Saint Jacques,yes,48.8580493,2.348305
+PAR-F058,PAR,fountain,official,450071740,Rue Payenne,yes,48.8578856,2.3628018
+PAR-F059,PAR,fountain,official,450071751,Square De La Tour Saint Jacques,yes,48.8577256,2.3492562
+PAR-F060,PAR,fountain,official,450071745,Rue Des Rosiers,yes,48.8576239,2.359951
+PAR-F061,PAR,fountain,official,450081001,Rue Madame De Sevigne,yes,48.8575511,2.3622439
+PAR-F062,PAR,fountain,official,450071263,Quai De La Megisserie,yes,48.8574377,2.345531
+PAR-F063,PAR,fountain,official,450071733,Square Du Vert Galant,yes,48.8573578,2.340629
+PAR-F064,PAR,fountain,official,450019159,Square Breguet-Sabin,yes,48.8570348,2.3709764
+PAR-F065,PAR,fountain,official,450085411,Place De L Hotel De Ville,yes,48.8568492,2.3519936
+PAR-F066,PAR,fountain,official,450085177,Place De L Hotel De Ville,yes,48.8565059,2.3510659
+PAR-F067,PAR,fountain,official,450085176,Place Baudoyer,yes,48.8563081,2.3552452
+PAR-F068,PAR,fountain,official,450024958,Quai Des Grands Augustins,yes,48.8560958,2.340651
+PAR-F069,PAR,fountain,official,450072132,Passage Charles Dallery,no,48.8560218,2.3767621
+PAR-F070,PAR,fountain,official,450085482,Place De L Hotel De Ville,yes,48.8558451,2.3519813
+PAR-F071,PAR,fountain,official,450019302,Quai De La Corse-Pasquale Paoli,yes,48.8558258,2.347551
+PAR-F072,PAR,fountain,official,450071754,Place Des Vosges,yes,48.855786,2.3654382
+PAR-F073,PAR,fountain,official,450071755,Place Des Vosges,yes,48.8557348,2.3657697
+PAR-F074,PAR,fountain,official,450019303,Quai De La Corse-Pasquale Paoli,yes,48.8556428,2.3481119
+PAR-F075,PAR,fountain,official,450019298,Rue De Rivoli,yes,48.8554548,2.359544
+PAR-F076,PAR,fountain,official,450019301,Place Louis Lepine,yes,48.8554386,2.3475709
+PAR-F077,PAR,fountain,official,450019300,Place Louis Lepine,yes,48.8553973,2.3477146
+PAR-F078,PAR,fountain,official,450071330,Place Louis Lepine,yes,48.8553043,2.3474989
+PAR-F079,PAR,fountain,official,450055668,Place Louis Lepine,yes,48.8552812,2.3476479
+PAR-F080,PAR,fountain,official,450019324,Allee Des Justes De France,yes,48.8551128,2.355949
+PAR-F081,PAR,fountain,official,450071267,Quai De L Hotel De Ville,yes,48.8549681,2.3528342
+PAR-F082,PAR,fountain,official,450019323,Boulevard Du Palais,yes,48.8548561,2.3455744
+PAR-F083,PAR,fountain,official,450071823,Square Taras Chevtchenko,no,48.8545405,2.331055
+PAR-F084,PAR,fountain,official,450024930,Place Saint Germain Des Pres,yes,48.8544334,2.3334936
+PAR-F085,PAR,fountain,official,450019285,Boulevard Richard Lenoir,yes,48.8543002,2.369437
+PAR-F086,PAR,fountain,official,450071821,Square Laurent Prache,yes,48.8541788,2.3339096
+PAR-F087,PAR,fountain,official,450077006,Rue De L Hotel De Ville,yes,48.8540572,2.3563997
+PAR-F088,PAR,fountain,official,450071746,Square Albert Schweitzer,yes,48.8538007,2.3577611
+PAR-F089,PAR,fountain,official,450071820,Square Felix Desruelles,yes,48.8537061,2.3343433
+PAR-F090,PAR,fountain,official,450024992,Place Saint Michel,yes,48.85366,2.3438519
+PAR-F091,PAR,fountain,official,450072941,Rue Saint Antoine,yes,48.8535562,2.3670389
+PAR-F092,PAR,fountain,official,450085271,Rue De La Roquette,yes,48.8535184,2.370349
+PAR-F093,PAR,fountain,official,450071017,Quai De L Hotel De Ville,yes,48.8533166,2.3570331
+PAR-F094,PAR,fountain,official,450085494,Rue Juliette Recamier,no,48.8529318,2.3280369
+PAR-F095,PAR,fountain,official,450024952,Place Saint Andre Des Arts,yes,48.8529186,2.3431004
+PAR-F096,PAR,fountain,official,450071753,Square Jean Xxiii,yes,48.8527501,2.3516001
+PAR-F097,PAR,fountain,official,450072706,Square Jean Xxiii,yes,48.8527125,2.3491854
+PAR-F098,PAR,fountain,official,450085371,Place De La Bastille,yes,48.8526587,2.3690415
+PAR-F099,PAR,fountain,official,450024927,Rue De La Bucherie,yes,48.8526044,2.3472253
+PAR-F100,PAR,fountain,official,450071813,Square Viviani,yes,48.8522801,2.347931
+PAR-F101,PAR,fountain,official,450084801,Boulevard De La Bastille,yes,48.8521922,2.3690996
+PAR-F102,PAR,fountain,official,450071295,Quai Des Celestins,yes,48.8520752,2.3607032
+PAR-F103,PAR,fountain,official,450071812,Square Viviani,yes,48.851821,2.3476274
+PAR-F104,PAR,fountain,official,450071807,Square Andre Lefevre,yes,48.8516503,2.345411
+PAR-F105,PAR,fountain,official,450071747,Quai Des Celestins,yes,48.8514021,2.3619241
+PAR-F106,PAR,fountain,official,450084741,Rue De Sully,yes,48.851027,2.3627607
+PAR-F107,PAR,fountain,official,450071804,Jardin Du Musee De Cluny,yes,48.8507714,2.3441638
+PAR-F108,PAR,fountain,official,450024948,Rue Bonaparte,no,48.8506563,2.3329981
+PAR-F109,PAR,fountain,official,450072166,Boulevard De La Bastille,yes,48.8506055,2.3684967
+PAR-F110,PAR,fountain,official,450071805,Rue De Bievre,yes,48.8505566,2.350162
+PAR-F111,PAR,fountain,official,450071802,Place Paul Painleve,yes,48.8501869,2.3442769
+PAR-F112,PAR,fountain,official,450071752,Boulevard Henri Iv,yes,48.8501837,2.3597939
+PAR-F113,PAR,fountain,official,450072955,Place Mohammed V,yes,48.8492697,2.3566554
+PAR-F114,PAR,fountain,official,450071806,Quai Saint Bernard,yes,48.8483906,2.3594267
+PAR-F115,PAR,fountain,official,450072175,Avenue Daumesnil,no,48.8482155,2.3740086
+PAR-F116,PAR,fountain,official,450071811,Square Paul Langevin,yes,48.8476228,2.3506606
+PAR-F117,PAR,fountain,official,450085510,Rue Victor Cousin,yes,48.8472832,2.342009
+PAR-F118,PAR,fountain,official,450085264,Boulevard De La Bastille,yes,48.8470598,2.3669325
+PAR-F119,PAR,fountain,official,450080320,Place Du Pantheon,yes,48.8470178,2.345397
+PAR-F120,PAR,fountain,official,450071808,Rue Des Arenes,yes,48.845287,2.3535941
+PAR-F121,PAR,fountain,official,450071809,Rue Des Arenes,yes,48.8451979,2.3533696
+PAR-F122,PAR,fountain,official,450024947,Rue De L Estrapade,yes,48.8445543,2.3478278
+PAR-F123,PAR,fountain,official,450024988,Rue Rollin,yes,48.8445301,2.3520674
+PAR-F124,PAR,fountain,official,450071810,Rue De Navarre,yes,48.8444784,2.3530905
+PAR-F125,PAR,fountain,official,450071819,Rue Auguste Comte,no,48.8441333,2.337028
+PAR-F126,PAR,fountain,official,450085116,Boulevard De L Hopital,no,48.8440865,2.3641957
+PAR-F127,PAR,fountain,official,450024974,Rue Geoffroy Saint Hilaire,yes,48.8436828,2.3551244
+PAR-F128,PAR,fountain,official,450077559,Square Jaillot,yes,48.8433394,2.3504217
+PAR-F129,PAR,fountain,official,450071815,Place Du Puits De L Ermite,no,48.8422388,2.3539877
+PAR-F130,PAR,fountain,official,450024942,Rue Des Patriarches,no,48.8403817,2.3507051
+PAR-F131,PAR,fountain,official,450071167,Rue Poliveau,no,48.8400758,2.358193
+PAR-F132,PAR,fountain,official,450071166,Rue Geoffroy Saint Hilaire,no,48.8397598,2.3564183
+PAR-F133,PAR,fountain,official,450071816,Rue Censier,no,48.8395974,2.3502882
+BCN-F001,BCN,fountain,official,02-059,Sardenya,no,41.399215,2.178591
+BCN-F002,BCN,fountain,official,02-236,Roger de Flor / Aragó / València,no,41.399109,2.1729479
+BCN-F003,BCN,fountain,official,02-204,Marina,no,41.3987923,2.1812155
+BCN-F004,BCN,fountain,official,02-049,Roger de Flor,no,41.3986096,2.1731902
+BCN-F005,BCN,fountain,official,02-048,Pg. Sant Joan,no,41.3984463,2.1705839
+BCN-F006,BCN,fountain,official,02-047,Consell de Cent,no,41.3983713,2.1756693
+BCN-F007,BCN,fountain,official,02-248,Pl. Anaïs Napoleó,no,41.3983178,2.1814173
+BCN-F008,BCN,fountain,official,02-164,Sicília,no,41.3976498,2.1785629
+BCN-F009,BCN,fountain,official,02-046,Roger de Flor,no,41.3975427,2.174538
+BCN-F010,BCN,fountain,official,02-176,Roger de Flor (entre Consell de Cent/Diputació),no,41.3974272,2.1752446
+BCN-F011,BCN,fountain,official,02-088,València,no,41.3973731,2.1697623
+BCN-F012,BCN,fountain,official,02-165,Nàpols,no,41.3973498,2.1764388
+BCN-F013,BCN,fountain,official,02-061,Carles I,no,41.3972604,2.1832234
+BCN-F014,BCN,fountain,official,02-085,Pg. St. Joan 65,no,41.3972103,2.1721641
+BCN-F015,BCN,fountain,official,02-060,Casp,no,41.3971528,2.1814439
+BCN-F016,BCN,fountain,official,02-259,,no,41.3965935,2.1730007
+BCN-F017,BCN,fountain,official,02-217,Sardenya / Marina / Ali Bei,no,41.3965034,2.1834667
+BCN-F018,BCN,fountain,official,10-012,Sancho de Ávila,no,41.3963626,2.1873112
+BCN-F019,BCN,fountain,official,02-091,Casp,no,41.3963079,2.1801978
+BCN-F020,BCN,fountain,official,02-096,València,no,41.3961971,2.1692121
+BCN-F021,BCN,fountain,official,02-078,Pg Sant joan,no,41.3960721,2.1745023
+BCN-F022,BCN,fountain,official,02-212,Ausiàs Marc,no,41.3958503,2.1822325
+BCN-F023,BCN,fountain,official,02-092,Gran Via de les Corts Catalanes,yes,41.3958332,2.1763773
+BCN-F024,BCN,fountain,official,02-090,Sardenya,no,41.3958136,2.1837201
+BCN-F025,BCN,fountain,official,02-089,Aragó,no,41.3952462,2.1683987
+BCN-F026,BCN,fountain,official,02-132,Pça Tetuan,yes,41.3951698,2.1756131
+BCN-F027,BCN,fountain,official,02-037,València,no,41.3951404,2.1660901
+BCN-F028,BCN,fountain,official,02-222,"Aragó 305, Bruc",no,41.3951219,2.167376
+BCN-F029,BCN,fountain,official,10-003,Zamora,no,41.3949182,2.1913668
+BCN-F030,BCN,fountain,official,02-225,Tetuan,yes,41.3948973,2.1755596
+BCN-F031,BCN,fountain,official,02-045,Consell de Cent,yes,41.394816,2.1710685
+BCN-F032,BCN,fountain,official,02-069,Bailen,yes,41.3947774,2.1729812
+BCN-F033,BCN,fountain,official,02-219,entre pont Sardenya i Marina,no,41.3946317,2.18535
+BCN-F034,BCN,fountain,official,02-163,costat Estació del Nord,yes,41.3943525,2.1845696
+BCN-F035,BCN,fountain,official,02-043,"Sant Joan, Pg",yes,41.3939804,2.1764407
+BCN-F036,BCN,fountain,official,02-210,Gran Via / Bailen / Girona,yes,41.3939144,2.1732276
+BCN-F037,BCN,fountain,official,02-211,Gran Via / Bailen / Girona,yes,41.3939016,2.1732107
+BCN-F038,BCN,fountain,official,02-216,Roger de Flor / Ali Bei,yes,41.3938397,2.1802949
+BCN-F039,BCN,fountain,official,02-254,,yes,41.3936305,2.1728023
+BCN-F040,BCN,fountain,official,02-195,Roger de Llúria (entre Consell de Cent i Diputació),yes,41.3935869,2.1696665
+BCN-F041,BCN,fountain,official,02-044,Bruc,yes,41.393491,2.1710549
+BCN-F042,BCN,fountain,official,10-026,,no,41.3932565,2.1904753
+BCN-F043,BCN,fountain,official,02-084,Consell de Cent,yes,41.3932106,2.1685022
+BCN-F044,BCN,fountain,official,10-147,Pere IV,no,41.3930732,2.1897276
+BCN-F045,BCN,fountain,official,02-076,Parc del Nord,yes,41.3928594,2.1829096
+BCN-F046,BCN,fountain,official,02-124,Ribes 1-3,yes,41.3926873,2.1812826
+BCN-F047,BCN,fountain,official,10-146,Marina,yes,41.3925816,2.1890158
+BCN-F048,BCN,fountain,official,02-035,Rambla Catalunya,no,41.3925423,2.1609739
+BCN-F049,BCN,fountain,official,10-002,Pujades,yes,41.3925398,2.1877844
+BCN-F050,BCN,fountain,official,02-255,,yes,41.3925284,2.1676086
+BCN-F051,BCN,fountain,official,10-351,Llull,no,41.3924414,2.1912426
+BCN-F052,BCN,fountain,official,02-153,Ali Bei,yes,41.3924349,2.1784915
+BCN-F053,BCN,fountain,official,02-152,Bruc,yes,41.3924311,2.1718333
+BCN-F054,BCN,fountain,official,10-087,Llull,no,41.3921782,2.1899005
+BCN-F055,BCN,fountain,official,10-085,Wellington,yes,41.3921236,2.1857238
+BCN-F056,BCN,fountain,official,02-087,Girona,yes,41.3920995,2.1742594
+BCN-F057,BCN,fountain,official,02-068,Diputació,yes,41.391711,2.1683567
+BCN-F058,BCN,fountain,official,10-088,Ramon Turro,no,41.391598,2.1916375
+BCN-F059,BCN,fountain,official,10-148,Ramon Turro,no,41.3914714,2.1932436
+BCN-F060,BCN,fountain,official,10-086,Wellington,yes,41.3913521,2.1870973
+BCN-F061,BCN,fountain,official,02-041,Casp,yes,41.3912045,2.1735058
+BCN-F062,BCN,fountain,official,10-001,Buenaventura Muñoz,yes,41.3907876,2.1834436
+BCN-F063,BCN,fountain,official,02-028,Enric Granados,no,41.3905355,2.1582945
+BCN-F064,BCN,fountain,official,02-129,Pau Claris,yes,41.3905347,2.1702072
+BCN-F065,BCN,fountain,official,10-223,Parc Carles I,no,41.3904829,2.193373
+BCN-F066,BCN,fountain,official,01-139,dins del parc Zoologic,yes,41.3901243,2.1881881
+BCN-F067,BCN,fountain,official,01-151,Darrera Gran Cascada,yes,41.3899873,2.1871669
+BCN-F068,BCN,fountain,official,01-118,,yes,41.3899528,2.1825683
+BCN-F069,BCN,fountain,official,01-045,Trafalgar,yes,41.3899516,2.1774702
+BCN-F070,BCN,fountain,official,02-098,Balmes,no,41.3899373,2.1621323
+BCN-F071,BCN,fountain,official,02-238,amb Passeig de Gràcia,yes,41.3898614,2.1685928
+BCN-F072,BCN,fountain,official,02-029,Aribau,no,41.3897524,2.1570431
+BCN-F073,BCN,fountain,official,01-033,Comerç,yes,41.38968,2.1811943
+BCN-F074,BCN,fountain,official,01-057,centre plaça,yes,41.389514,2.1789665
+BCN-F075,BCN,fountain,official,02-142,Cine Comedia,yes,41.3894388,2.1678473
+BCN-F076,BCN,fountain,official,01-009,davant cascada,yes,41.3893693,2.1859286
+BCN-F077,BCN,fountain,official,02-139,Enric Granados,no,41.3893075,2.160484
+BCN-F078,BCN,fountain,official,02-038,Rambla Catalunya,yes,41.389304,2.1654389
+BCN-F079,BCN,fountain,official,02-137,,yes,41.3891445,2.1729236
+BCN-F080,BCN,fountain,official,02-252,Jardins de Reina Victòria,yes,41.3890541,2.1677909
+BCN-F081,BCN,fountain,official,01-138,dins del parc Zoologic,yes,41.3890367,2.1888171
+BCN-F082,BCN,fountain,official,01-008,costat llac,yes,41.3890147,2.1868119
+BCN-F083,BCN,fountain,official,02-032,Doctor Letamendi / costat mar,no,41.3889009,2.1611
+BCN-F084,BCN,fountain,official,02-130,cantonada Rambla Catalunya,yes,41.3888044,2.1674561
+BCN-F085,BCN,fountain,official,01-148,,yes,41.3887454,2.1879689
+BCN-F086,BCN,fountain,official,01-058,davant nº6 C/ Baix de Sant Pere,yes,41.3884766,2.1800908
+BCN-F087,BCN,fountain,official,01-137,dins del parc Zoologic,yes,41.3883081,2.1898937
+BCN-F088,BCN,fountain,official,02-083,Consell de Cent,yes,41.3881815,2.1620424
+BCN-F089,BCN,fountain,official,02-027,València,no,41.3880535,2.15762
+BCN-F090,BCN,fountain,official,01-173,Jardins del Pou de la Figuera,yes,41.3880163,2.1789297
+BCN-F091,BCN,fountain,official,01-053,centre plaça,yes,41.3879095,2.1805454
+BCN-F092,BCN,fountain,official,01-015,biblioteca,yes,41.387784,2.187052
+BCN-F093,BCN,fountain,official,01-070,Carders / Boira,yes,41.387637,2.1806091
+BCN-F094,BCN,fountain,official,01-172,,yes,41.3875639,2.1743668
+BCN-F095,BCN,fountain,official,01-040,davant Parlament,yes,41.3875287,2.1886511
+BCN-F096,BCN,fountain,official,01-011,entre Hivernacle i museu,yes,41.3875216,2.184143
+BCN-F097,BCN,fountain,official,01-085,,yes,41.3874888,2.1780307
+BCN-F098,BCN,fountain,official,01-149,Pou de la Figuera,yes,41.3874303,2.1794913
+BCN-F099,BCN,fountain,official,01-147,,yes,41.3873885,2.1908574
+BCN-F100,BCN,fountain,official,02-213,Costat Corte Inglés,yes,41.3873689,2.1701673
+BCN-F101,BCN,fountain,official,01-143,Próxim a Iglesia Castrense,yes,41.3871254,2.1877275
+BCN-F102,BCN,fountain,official,01-084,,yes,41.387077,2.1759555
+BCN-F103,BCN,fountain,official,01-177,,yes,41.387009,2.1807915
+BCN-F104,BCN,fountain,official,02-040,davant boca metro central,yes,41.3869985,2.1695319
+BCN-F105,BCN,fountain,official,01-034,"Pons i Clerch, Pl",yes,41.3868002,2.1818577
+BCN-F106,BCN,fountain,official,01-144,C. Fonollar,yes,41.386653,2.1800239
+BCN-F107,BCN,fountain,official,02-082,Muntaner,no,41.3864518,2.1594816
+BCN-F108,BCN,fountain,official,02-026,Aribau,yes,41.3863436,2.1615624
+BCN-F109,BCN,fountain,official,01-052,Santa Anna,yes,41.386103,2.1722585
+BCN-F110,BCN,fountain,official,02-224,Passeig central,no,41.3860825,2.1560464
+BCN-F111,BCN,fountain,official,02-180,Rda. Universitat,yes,41.3859217,2.164415
+BCN-F112,BCN,fountain,official,02-140,Av Roma,no,41.3858738,2.156329
+BCN-F113,BCN,fountain,official,01-153,Entrada Parc de la Ciutadella (Zoo),yes,41.3858483,2.185774
+BCN-F114,BCN,fountain,official,01-121,Pelai,yes,41.3858461,2.16481
+BCN-F115,BCN,fountain,official,01-099,Interior Parc Zoologic,yes,41.3857843,2.1892974
+BCN-F116,BCN,fountain,official,01-031,,yes,41.3857321,2.1853746
+BCN-F117,BCN,fountain,official,01-145,,yes,41.3856778,2.1789304
+BCN-F118,BCN,fountain,official,01-170,,yes,41.3854327,2.1862222
+BCN-F119,BCN,fountain,official,01-013,Magdalenes,yes,41.3854047,2.1745672
+BCN-F120,BCN,fountain,official,01-051,Roviralta / font Canaletes,yes,41.3851544,2.1701744
+BCN-F121,BCN,fountain,official,02-115,Aragó,no,41.3849849,2.1549603
+BCN-F122,BCN,fountain,official,02-232,,no,41.384869,2.1574412
+BCN-F123,BCN,fountain,official,01-154,,yes,41.3848364,2.164788
+BCN-F124,BCN,fountain,official,01-068,Flassaders,yes,41.3847942,2.1828046
+BCN-F125,BCN,fountain,official,01-152,,yes,41.3847832,2.176353
+BCN-F126,BCN,fountain,official,01-163,Plaça Comerç,yes,41.3847777,2.1844997
+BCN-F127,BCN,fountain,official,01-089,Av. Portal de lÀngel,yes,41.3845267,2.1741956
+BCN-F128,BCN,fountain,official,01-046,Tapineria,yes,41.384521,2.1774755
+BCN-F129,BCN,fountain,official,01-067,,yes,41.3845012,2.1719384
+BCN-F130,BCN,fountain,official,01-158,Pl. Vicenç Martorell,yes,41.3842079,2.1689067
+BCN-F131,BCN,fountain,official,02-081,Villarroel,no,41.3841597,2.1586555
+BCN-F132,BCN,fountain,official,01-018,Hotel Rivoli,yes,41.3841384,2.1710676
+BCN-F133,BCN,fountain,official,01-061,Estafeta Correos,yes,41.3839209,2.1696288
+BCN-F134,BCN,fountain,official,02-149,Sepúlveda / Rda. Sant Antoni,yes,41.3838833,2.1636149
+BCN-F135,BCN,fountain,official,01-128,Hospital del Mar,no,41.3837694,2.1952032
+BCN-F136,BCN,fountain,official,02-148,Casanova,yes,41.3837264,2.161159
+BCN-F137,BCN,fountain,official,02-177,Villarroel (entre Diputació i Gran Via),yes,41.3836605,2.1595498
+BCN-F138,BCN,fountain,official,01-026,Dames,yes,41.3836533,2.1831498
+BCN-F139,BCN,fountain,official,01-019,magatzems Sepu,yes,41.3835472,2.1714445
+BCN-F140,BCN,fountain,official,01-007,Ocata,yes,41.38349,2.1853658
+BCN-F141,BCN,fountain,official,01-092,Boixadors,yes,41.3834716,2.1815813
+BCN-F142,BCN,fountain,official,01-160,,yes,41.3833001,2.1873822
+BCN-F143,BCN,fountain,official,01-074,Valldonzella,yes,41.3832704,2.1649467
+BCN-F144,BCN,fountain,official,02-257,,no,41.383102,2.1550903
+BCN-F145,BCN,fountain,official,01-104,La Rambla,yes,41.3830548,2.1719318
+BCN-F146,BCN,fountain,official,01-091,Lledo / Sant Just,yes,41.3828877,2.1784821
+BCN-F147,BCN,fountain,official,01-124,,yes,41.382853,2.1840211
+BCN-F148,BCN,fountain,official,01-166,,yes,41.3828096,2.1795274
+BCN-F149,BCN,fountain,official,02-024,Sepúlveda,yes,41.3828028,2.1623278
+BCN-F150,BCN,fountain,official,01-126,Hospital del Mar,yes,41.3827777,2.1945937
+BCN-F151,BCN,fountain,official,01-150,Pg Marítim de la Barceloneta / C. Gas,yes,41.3824417,2.1940474
+BCN-F152,BCN,fountain,official,01-165,,yes,41.3823916,2.1907405
+BCN-F153,BCN,fountain,official,02-250,Jardins d'Emma de Barcelona,no,41.3823596,2.1551503
+BCN-F154,BCN,fountain,official,02-174,Gran Via de les Corts Catalanes,no,41.3823515,2.1581265
+BCN-F155,BCN,fountain,official,01-162,,yes,41.3822956,2.1675504
+BCN-F156,BCN,fountain,official,01-065,centre plaça,yes,41.3821773,2.1798334
+BCN-F157,BCN,fountain,official,01-006,Balboa,yes,41.3821596,2.1880508
+BCN-F158,BCN,fountain,official,02-025,Diputació,no,41.3820495,2.1562656
+BCN-F159,BCN,fountain,official,01-094,,yes,41.3820189,2.1768219
+BCN-F160,BCN,fountain,official,01-075,Ferlandina,yes,41.3818351,2.1651616
+BCN-F161,BCN,fountain,official,01-066,Ciutat,yes,41.3816656,2.1786783
+BCN-F162,BCN,fountain,official,01-127,,yes,41.3816291,2.1637541
+BCN-F163,BCN,fountain,official,01-005,C. Carbonell,yes,41.3815334,2.1876637
+BCN-F164,BCN,fountain,official,01-093,Floristes Rambles,yes,41.3815317,2.1701191
+BCN-F165,BCN,fountain,official,01-078,Egipciaques,yes,41.3813494,2.1686857
+BCN-F166,BCN,fountain,official,01-096,Central,yes,41.3813283,2.1865179
+BCN-F167,BCN,fountain,official,01-136,,yes,41.381325,2.1682556
+BCN-F168,BCN,fountain,official,01-161,,yes,41.381314,2.1898233
+BCN-F169,BCN,fountain,official,01-032,Fusteria,yes,41.3813091,2.1813739
+BCN-F170,BCN,fountain,official,01-087,"La Rambla, 80",yes,41.3811939,2.1735043
+BCN-F171,BCN,fountain,official,02-080,Floridablanca,yes,41.3810029,2.1620869
+BCN-F172,BCN,fountain,official,01-142,Andrea Doria,yes,41.3809191,2.1934483
+BCN-F173,BCN,fountain,official,01-171,Al costat del C/ Arenes,yes,41.3806303,2.1773251
+BCN-F174,BCN,fountain,official,01-079,Comerç,yes,41.3805985,2.1707762
+BCN-F175,BCN,fountain,official,01-159,Andrea Doria cantonada Miquel Boera,yes,41.3805812,2.1920145
+BCN-F176,BCN,fountain,official,01-023,Peu de la Creu,yes,41.3805514,2.1662533
+BCN-F177,BCN,fountain,official,02-113,Comte Borrell,no,41.3804776,2.1586113
+BCN-F178,BCN,fountain,official,01-156,,yes,41.3803632,2.188785
+BCN-F179,BCN,fountain,official,02-147,Gran Via de les Corts Catalanes,no,41.3801909,2.1567419
+BCN-F180,BCN,fountain,official,01-125,frente Pl. Pau Vila,yes,41.3801923,2.1830954
+BCN-F181,BCN,fountain,official,01-064,"Reial, Pl",yes,41.3799583,2.1743925
+BCN-F182,BCN,fountain,official,01-141,,yes,41.3798198,2.1927661
+BCN-F183,BCN,fountain,official,01-054,centre plaça,yes,41.3797441,2.1881284
+BCN-F184,BCN,fountain,official,01-174,,yes,41.3796752,2.1669312
+BCN-F185,BCN,fountain,official,01-097,Moll,yes,41.3796012,2.1870665
+BCN-F186,BCN,fountain,official,01-055,Hospital,yes,41.379504,2.1660192
+BCN-F187,BCN,fountain,official,01-164,,yes,41.3794572,2.1915526
+BCN-F188,BCN,fountain,official,02-231,Calàbria entre Gran Via i Sepúlveda,no,41.3794199,2.1565284
+BCN-F189,BCN,fountain,official,01-135,Hospital,yes,41.3793793,2.1683758
+BCN-F190,BCN,fountain,official,01-168,Plaça del Poeta Boscà,yes,41.3793775,2.1894241
+BCN-F191,BCN,fountain,official,01-004,Sant Carles,yes,41.3791456,2.1889649
+BCN-F192,BCN,fountain,official,01-083,Penedides / Santa Margarida,yes,41.3791082,2.1728879
+BCN-F193,BCN,fountain,official,01-169,Pl. de la Mercè,yes,41.3790862,2.1794629
+BCN-F194,BCN,fountain,official,01-157,Pl. Pijoan,yes,41.3790028,2.1770868
+BCN-F195,BCN,fountain,official,01-022,Salvador Seguí,yes,41.3789035,2.170882
+BCN-F196,BCN,fountain,official,02-021,Floridablanca,no,41.3786873,2.1584539
+BCN-F197,BCN,fountain,official,02-227,Sepúlveda 90,no,41.3786527,2.1573196
+BCN-F198,BCN,fountain,official,02-112,Sepúlveda,no,41.3785535,2.1566731
+BCN-F199,BCN,fountain,official,01-176,,yes,41.3785438,2.1759862
+BCN-F200,BCN,fountain,official,02-023,Tamarit,yes,41.3784992,2.1610366
+BCN-F201,BCN,fountain,official,02-079,Rda Sant Pau,yes,41.3784641,2.1630957
+BCN-F202,BCN,fountain,official,01-016,,yes,41.3784284,2.178687
+BCN-F203,BCN,fountain,official,01-027,Mestrança / Meer,yes,41.3783511,2.1899111
+BCN-F204,BCN,fountain,official,01-095,Moll,yes,41.3781323,2.187655
+BCN-F205,BCN,fountain,official,01-134,Sant Pau,yes,41.3780851,2.1702055
+BCN-F206,BCN,fountain,official,02-235,Comte Borrell 56,yes,41.3776425,2.1632243
+BCN-F207,BCN,fountain,official,01-082,,yes,41.377503,2.1726778
+BCN-F208,BCN,fountain,official,01-110,Almirall Aixada,yes,41.3774595,2.1894522
+BCN-F209,BCN,fountain,official,02-226,,no,41.3773332,2.1588385
+BCN-F210,BCN,fountain,official,01-077,Moll,yes,41.3772358,2.1879505
+BCN-F211,BCN,fountain,official,01-132,al centre de Mari Santpere,yes,41.3771854,2.1763264
+BCN-F212,BCN,fountain,official,02-198,,no,41.3771082,2.1580289
+BCN-F213,BCN,fountain,official,01-167,,yes,41.3769832,2.1732609
+BCN-F214,BCN,fountain,official,02-145,Parlament,yes,41.3769229,2.163449
+BCN-F215,BCN,fountain,official,02-144,Ronda Sant Pau,yes,41.3768241,2.1651608
+BCN-F216,BCN,fountain,official,02-199,,no,41.3768093,2.1570375
+BCN-F217,BCN,fountain,official,01-017,Santa Madrona,yes,41.3767956,2.175396
+BCN-F218,BCN,fountain,official,02-022,Viladomat,no,41.3767535,2.160965
+BCN-F219,BCN,fountain,official,02-247,Calàbria entre Manso i Tamarit,no,41.37675,2.1594733
+BCN-F220,BCN,fountain,official,01-037,Reina Amalia,yes,41.3767141,2.1670559
+BCN-F221,BCN,fountain,official,01-063,Museu de Cera,yes,41.3766372,2.1770869
+BCN-F222,BCN,fountain,official,02-200,,no,41.376577,2.1564342
+BCN-F223,BCN,fountain,official,01-038,Rda. Sant Pau,yes,41.376468,2.1663528
+BCN-F224,BCN,fountain,official,01-044,C. Judici,yes,41.3764382,2.1889412
+BCN-F225,BCN,fountain,official,02-207,Paral·lel amb Parlament,no,41.3761948,2.1609454
+BCN-F226,BCN,fountain,official,01-175,,yes,41.3761497,2.1766228
+BCN-F227,BCN,fountain,official,02-019,Rocafort,no,41.3760628,2.1573129
+BCN-F228,BCN,fountain,official,02-114,Parlament,no,41.3754199,2.1608086
+BCN-F229,BCN,fountain,official,01-130,Museu Marítim,yes,41.3753754,2.1770533
+BCN-F230,BCN,fountain,official,01-109,L'Abat Safont,yes,41.3753747,2.1697729
+BCN-F231,BCN,fountain,official,02-128,Paral·lel,yes,41.3751958,2.1674675
+BCN-F232,BCN,fountain,official,01-062,Paral·lel,yes,41.3751462,2.1703083
+BCN-F233,BCN,fountain,official,01-039,Paral·lel,yes,41.3750539,2.1727827
+BCN-F234,BCN,fountain,official,03-100,Ricart,no,41.3748651,2.1583196
+BCN-F235,BCN,fountain,official,03-053,Roser,yes,41.3747846,2.1672031
+BCN-F236,BCN,fountain,official,03-277,,yes,41.3745517,2.172416
+BCN-F237,BCN,fountain,official,03-051,Blai,yes,41.3743081,2.1630907
+BCN-F238,BCN,fountain,official,03-305,,yes,41.374021,2.1724007
+BCN-F239,BCN,fountain,official,03-123,Jaume Fabra,no,41.373991,2.1592454
+BCN-F240,BCN,fountain,official,03-050,Creu dels Molers,no,41.3737765,2.1617416
+BCN-F241,BCN,fountain,official,03-055,Nou de la Rambla,yes,41.373443,2.1682749
+BCN-F242,BCN,fountain,official,03-052,Blai,yes,41.373165,2.1658857
+BCN-F243,BCN,fountain,official,03-115,Mare de Deu del Remei,no,41.3729891,2.159876
+BCN-F244,BCN,fountain,official,03-074,Margarit,no,41.3729731,2.1633659
+BCN-F245,BCN,fountain,official,03-102,Mata,yes,41.372724,2.1706739
+BCN-F246,BCN,fountain,official,03-195,,yes,41.3723575,2.1735775
+BCN-F247,BCN,fountain,official,03-101,Rades,no,41.3722722,2.1603101
+BCN-F248,BCN,fountain,official,03-191,,no,41.3722514,2.1623899
+BCN-F249,BCN,fountain,official,03-267,Mirador del Poblesec,yes,41.3721401,2.1718195
+BCN-F250,BCN,fountain,official,03-239,Pg de Montjuïc,yes,41.3719039,2.167084
+BCN-F251,BCN,fountain,official,03-057,Poeta Cabanyes,no,41.3718531,2.164339
+BCN-F252,BCN,fountain,official,03-058,Cabanes,yes,41.3718438,2.1695188
+BCN-F253,BCN,fountain,official,03-249,,yes,41.3713823,2.1683722
+BCN-F254,BCN,fountain,official,03-250,hotel Miramar,yes,41.3709301,2.1705161
+BCN-F255,BCN,fountain,official,03-248,,no,41.370796,2.1668565
+BCN-F256,BCN,fountain,official,03-237,centre plaça,yes,41.3706559,2.1720417
+BCN-F257,BCN,fountain,official,03-236,Pça Armada,yes,41.3697679,2.172258
+BCN-F258,BCN,fountain,official,03-228,Pça Sardana (antic parc d'atraccions),no,41.369244,2.168286
+BCN-F259,BCN,fountain,official,03-227,Pça Sardana (antic parc d'atraccions),no,41.3688544,2.1686078
+BCN-F260,BCN,fountain,official,03-134,anat cap a Tarongers,no,41.368809,2.1644945
+BCN-F261,BCN,fountain,official,03-168,Jardins de Mossen Costa i Llobera,no,41.3685896,2.1720782
+BCN-F262,BCN,fountain,official,03-230,Pça Dante (antic parc d'atraccions),no,41.3683692,2.1654416
+BCN-F263,BCN,fountain,official,03-229,Pça Dante (antic parc d'atraccions),no,41.3679961,2.1659577
+ROM-F001,ROM,fountain,osm,n10117396942,,no,41.9094638,12.4894406
+ROM-F002,ROM,fountain,osm,n4234653009,,no,41.9084858,12.4746912
+ROM-F003,ROM,fountain,osm,n257476623,Fontana degli Artisti,no,41.90786,12.4804101
+ROM-F004,ROM,fountain,osm,n4793929923,,no,41.907819,12.4885452
+ROM-F005,ROM,fountain,osm,n1729006478,,no,41.9076916,12.4795284
+ROM-F006,ROM,fountain,osm,n253871563,,no,41.9073887,12.4759527
+ROM-F007,ROM,fountain,osm,n13452246905,,no,41.9072015,12.4709741
+ROM-F008,ROM,fountain,osm,n309569311,,no,41.9067618,12.4731175
+ROM-F009,ROM,fountain,osm,n953841622,,no,41.9066311,12.483041
+ROM-F010,ROM,fountain,osm,n3447037973,,no,41.9066079,12.4901043
+ROM-F011,ROM,fountain,osm,n2127629609,,no,41.9064972,12.4797191
+ROM-F012,ROM,fountain,osm,n2642163020,,no,41.9055923,12.4704194
+ROM-F013,ROM,fountain,osm,n1880658315,,yes,41.9053673,12.4866056
+ROM-F014,ROM,fountain,osm,n13013980203,,no,41.9052658,12.4760156
+ROM-F015,ROM,fountain,osm,n1397809372,,yes,41.9051228,12.4899895
+ROM-F016,ROM,fountain,osm,w1353218332,Torlonia,yes,41.9048595,12.4805689
+ROM-F017,ROM,fountain,osm,n1166403864,,yes,41.9047364,12.477104
+ROM-F018,ROM,fountain,osm,n252699691,,yes,41.9045357,12.4769332
+ROM-F019,ROM,fountain,osm,n1326896537,Fontana delle Api,yes,41.9042974,12.4887672
+ROM-F020,ROM,fountain,osm,n3901523314,,yes,41.9041637,12.4780295
+ROM-F021,ROM,fountain,osm,n12879288358,,yes,41.9041592,12.4865372
+ROM-F022,ROM,fountain,osm,n11483345317,,no,41.904156,12.4983044
+ROM-F023,ROM,fountain,osm,n1416937151,,yes,41.9041525,12.4879387
+ROM-F024,ROM,fountain,osm,n8198935920,,no,41.9040274,12.4678432
+ROM-F025,ROM,fountain,osm,n11469105851,,no,41.9039958,12.4670579
+ROM-F026,ROM,fountain,osm,n3978214109,Fontana del Moretto,yes,41.9037885,12.4818403
+ROM-F027,ROM,fountain,osm,n12492698171,,no,41.9036465,12.4956576
+ROM-F028,ROM,fountain,osm,n1328464530,,no,41.9033008,12.4681521
+ROM-F029,ROM,fountain,osm,n1429380536,,yes,41.9032475,12.4752579
+ROM-F030,ROM,fountain,osm,n469752228,,yes,41.9032046,12.4797159
+ROM-F031,ROM,fountain,osm,n246571142,,no,41.903148,12.5008187
+ROM-F032,ROM,fountain,osm,n9866169227,,yes,41.9030621,12.4750836
+ROM-F033,ROM,fountain,osm,n495048559,Fontana del Bufalo,yes,41.9030148,12.4832907
+ROM-F034,ROM,fountain,osm,n3531834100,,yes,41.9029623,12.4776281
+ROM-F035,ROM,fountain,osm,n4934063073,,yes,41.9028347,12.4863668
+ROM-F036,ROM,fountain,osm,n1253210982,,yes,41.9027043,12.4807826
+ROM-F037,ROM,fountain,osm,n1429382773,Acqua Vergine,yes,41.902501,12.4729627
+ROM-F038,ROM,fountain,osm,n1410727606,,yes,41.9024909,12.4855319
+ROM-F039,ROM,fountain,osm,n12481085570,,no,41.902452,12.465074
+ROM-F040,ROM,fountain,osm,n9866132252,,yes,41.9023777,12.4737526
+ROM-F041,ROM,fountain,osm,n454458848,,no,41.9023476,12.4969911
+ROM-F042,ROM,fountain,osm,n2735002378,,yes,41.901706,12.4735726
+ROM-F043,ROM,fountain,osm,n1410730478,,yes,41.9016843,12.4846068
+ROM-F044,ROM,fountain,osm,n251774236,,yes,41.9016622,12.485754
+ROM-F045,ROM,fountain,osm,n1043162429,,yes,41.9016448,12.4749282
+ROM-F046,ROM,fountain,osm,n2735002372,,yes,41.9015583,12.4731538
+ROM-F047,ROM,fountain,osm,n251774233,,yes,41.9012576,12.4849677
+ROM-F048,ROM,fountain,osm,n1168549494,Fontanella per cani,yes,41.900973,12.469274
+ROM-F049,ROM,fountain,osm,n953909053,,yes,41.9009517,12.4761698
+ROM-F050,ROM,fountain,osm,n2735002367,,yes,41.9007708,12.4903509
+ROM-F051,ROM,fountain,osm,n358421556,,yes,41.9007295,12.4718166
+ROM-F052,ROM,fountain,osm,n1436034864,,no,41.900501,12.467084
+ROM-F053,ROM,fountain,osm,n5028358421,,yes,41.9004304,12.4708497
+ROM-F054,ROM,fountain,osm,n6545701288,,yes,41.9003975,12.4963911
+ROM-F055,ROM,fountain,osm,n1248116067,,yes,41.9002564,12.4846755
+ROM-F056,ROM,fountain,osm,n1421868281,,yes,41.9001888,12.4765418
+ROM-F057,ROM,fountain,osm,n5265667721,,yes,41.9000488,12.4709577
+ROM-F058,ROM,fountain,osm,n358421553,,yes,41.8999853,12.4730011
+ROM-F059,ROM,fountain,osm,n410783553,,yes,41.8999505,12.4797698
+ROM-F060,ROM,fountain,osm,n9385514491,,yes,41.8998639,12.468138
+ROM-F061,ROM,fountain,osm,n4271278053,,yes,41.8995791,12.488373
+ROM-F062,ROM,fountain,osm,n550325611,,yes,41.8995059,12.4706953
+ROM-F063,ROM,fountain,osm,n255454063,,yes,41.8995059,12.4961229
+ROM-F064,ROM,fountain,osm,n3531834099,,yes,41.8994982,12.4779559
+ROM-F065,ROM,fountain,osm,n550325587,,yes,41.8994971,12.4694562
+ROM-F066,ROM,fountain,osm,n639673187,,no,41.8993868,12.4659264
+ROM-F067,ROM,fountain,osm,n5324611996,,yes,41.8993844,12.4767299
+ROM-F068,ROM,fountain,osm,n1410731988,,yes,41.8990523,12.4709469
+ROM-F069,ROM,fountain,osm,n255454064,,yes,41.8990202,12.4902251
+ROM-F070,ROM,fountain,osm,n5316361874,,yes,41.8986925,12.4839181
+ROM-F071,ROM,fountain,osm,n8258609183,,yes,41.8986407,12.4716667
+ROM-F072,ROM,fountain,osm,n259576441,Fontana dei Libri,yes,41.8984045,12.4742016
+ROM-F073,ROM,fountain,osm,n281348354,Fontana del Facchino,yes,41.8983031,12.481382
+ROM-F074,ROM,fountain,osm,n1417673738,,yes,41.8978014,12.4701701
+ROM-F075,ROM,fountain,osm,n1507661501,,yes,41.8977508,12.4673452
+ROM-F076,ROM,fountain,osm,n246661215,,no,41.8975832,12.5031998
+ROM-F077,ROM,fountain,osm,n1341735160,,yes,41.8975775,12.4735763
+ROM-F078,ROM,fountain,osm,n246661218,,yes,41.897553,12.4901207
+ROM-F079,ROM,fountain,osm,n639673167,,yes,41.8974687,12.466891
+ROM-F080,ROM,fountain,osm,n246661219,,yes,41.8972914,12.4977508
+ROM-F081,ROM,fountain,osm,n639673162,,yes,41.8972648,12.4675637
+ROM-F082,ROM,fountain,osm,n12851143081,,yes,41.8972194,12.4777064
+ROM-F083,ROM,fountain,osm,n255577312,,no,41.8971523,12.5047293
+ROM-F084,ROM,fountain,osm,n9908462464,,no,41.8971351,12.4660731
+ROM-F085,ROM,fountain,osm,n6547153465,,yes,41.8971021,12.4941377
+ROM-F086,ROM,fountain,osm,w662059318,Fontana di piazza Santa Maria Maggiore,yes,41.8970572,12.4993291
+ROM-F087,ROM,fountain,osm,n1485692256,,yes,41.8969105,12.4698192
+ROM-F088,ROM,fountain,osm,n2105948243,,yes,41.8968428,12.4878685
+ROM-F089,ROM,fountain,osm,n1341744302,,yes,41.8967572,12.4722975
+ROM-F090,ROM,fountain,osm,n13045340104,,yes,41.8967454,12.4961563
+ROM-F091,ROM,fountain,osm,n11183079186,,yes,41.8967417,12.4756728
+ROM-F092,ROM,fountain,osm,n248743319,Fontana delle tre cannelle,yes,41.8967142,12.4859132
+ROM-F093,ROM,fountain,osm,n7869827179,,yes,41.8966135,12.4947756
+ROM-F094,ROM,fountain,osm,n9738041464,,yes,41.896607,12.4790429
+ROM-F095,ROM,fountain,osm,n267112898,,no,41.8965545,12.464326
+ROM-F096,ROM,fountain,osm,n281348356,,yes,41.8965137,12.471068
+ROM-F097,ROM,fountain,osm,n1341744308,,yes,41.8963592,12.4723337
+ROM-F098,ROM,fountain,osm,n281351519,,yes,41.8963253,12.4922226
+ROM-F099,ROM,fountain,osm,n252609581,,yes,41.8961363,12.49709
+ROM-F100,ROM,fountain,osm,n252602350,,yes,41.8961224,12.4929031
+ROM-F101,ROM,fountain,osm,n248743322,,yes,41.8960661,12.4870372
+ROM-F102,ROM,fountain,osm,n281348359,,yes,41.8960295,12.4735047
+ROM-F103,ROM,fountain,osm,n250889642,,yes,41.8959904,12.4903891
+ROM-F104,ROM,fountain,osm,n10801687904,,yes,41.8959095,12.468347
+ROM-F105,ROM,fountain,osm,n246574146,Fontana dei Monti,no,41.8957784,12.5016702
+ROM-F106,ROM,fountain,osm,n258755618,,yes,41.8957224,12.4772529
+ROM-F107,ROM,fountain,osm,n5167443540,,yes,41.8955726,12.4931902
+ROM-F108,ROM,fountain,osm,n2830517842,,yes,41.8954809,12.4730247
+ROM-F109,ROM,fountain,osm,n250884089,,yes,41.8954106,12.4717358
+ROM-F110,ROM,fountain,osm,n5108982397,,yes,41.8953899,12.4701707
+ROM-F111,ROM,fountain,osm,n264897051,Fontana della Pigna,yes,41.8953658,12.4815712
+ROM-F112,ROM,fountain,osm,n257352140,,yes,41.8953461,12.4725282
+ROM-F113,ROM,fountain,osm,n246574144,,no,41.8953181,12.5031327
+ROM-F114,ROM,fountain,osm,n246574145,,no,41.8952417,12.5030581
+ROM-F115,ROM,fountain,osm,n1407542660,,yes,41.8952404,12.4919485
+ROM-F116,ROM,fountain,osm,n281348357,,yes,41.8951654,12.4741269
+ROM-F117,ROM,fountain,osm,n246661213,,no,41.8950278,12.5046834
+ROM-F118,ROM,fountain,osm,n246661214,,no,41.8949655,12.5047944
+ROM-F119,ROM,fountain,osm,n246574150,,yes,41.8948869,12.4909457
+ROM-F120,ROM,fountain,osm,n246574149,,yes,41.894806,12.4919399
+ROM-F121,ROM,fountain,osm,n256572272,,yes,41.8947199,12.4963709
+ROM-F122,ROM,fountain,osm,n249331407,,no,41.8946694,12.4651763
+ROM-F123,ROM,fountain,osm,n5028312325,,yes,41.8946273,12.4796055
+ROM-F124,ROM,fountain,osm,n246574151,,yes,41.8944984,12.487739
+ROM-F125,ROM,fountain,osm,n1605062945,,yes,41.894381,12.4768045
+ROM-F126,ROM,fountain,osm,n2735002363,,yes,41.8943198,12.4661696
+ROM-F127,ROM,fountain,osm,n11494105831,,no,41.8942566,12.5057407
+ROM-F128,ROM,fountain,osm,n252441818,,no,41.8941782,12.5038691
+ROM-F129,ROM,fountain,osm,n252441819,,no,41.8941232,12.5039706
+ROM-F130,ROM,fountain,osm,n267112935,,yes,41.8940468,12.4735353
+ROM-F131,ROM,fountain,osm,n246572374,,no,41.8939406,12.5056111
+ROM-F132,ROM,fountain,osm,n246572372,,no,41.8938436,12.5055161
+ROM-F133,ROM,fountain,osm,n327114989,,yes,41.8937726,12.5010324
+ROM-F134,ROM,fountain,osm,n5732659653,,yes,41.8936702,12.4923174
+ROM-F135,ROM,fountain,osm,n9866160813,,yes,41.8936581,12.4744359
+ROM-F136,ROM,fountain,osm,n281348358,,yes,41.8936532,12.4786635
+ROM-F137,ROM,fountain,osm,n6426417754,,yes,41.893558,12.4754331
+ROM-F138,ROM,fountain,osm,n14159255601,,yes,41.8934907,12.4845604
+ROM-F139,ROM,fountain,osm,n251773551,,yes,41.8933168,12.4838554
+ROM-F140,ROM,fountain,osm,n266317282,,yes,41.8932611,12.4901658
+ROM-F141,ROM,fountain,osm,n9878433809,,yes,41.8931636,12.4971047
+ROM-F142,ROM,fountain,osm,n495048544,,yes,41.8931484,12.4742935
+ROM-F143,ROM,fountain,osm,n12873430690,,yes,41.8930706,12.4978446
+ROM-F144,ROM,fountain,osm,n1479202496,,yes,41.8930647,12.4737926
+ROM-F145,ROM,fountain,osm,n6205713285,,yes,41.8929075,12.478927
+ROM-F146,ROM,fountain,osm,n281348360,,yes,41.8929056,12.4767467
+ROM-F147,ROM,fountain,osm,n11812551762,,yes,41.8927804,12.4947847
+ROM-F148,ROM,fountain,osm,n266310817,,yes,41.8926848,12.4931113
+ROM-F149,ROM,fountain,osm,n639673153,,yes,41.8924941,12.466847
+ROM-F150,ROM,fountain,osm,n12097935090,,yes,41.8924751,12.4870232
+ROM-F151,ROM,fountain,osm,n521790371,,yes,41.8924195,12.4726316
+ROM-F152,ROM,fountain,osm,n6547164641,,yes,41.8924043,12.4870814
+ROM-F153,ROM,fountain,osm,n9983658444,,yes,41.8923945,12.4836941
+ROM-F154,ROM,fountain,osm,n1166747360,,no,41.8923849,12.5044176
+ROM-F155,ROM,fountain,osm,n1393905944,,yes,41.8923696,12.4756264
+ROM-F156,ROM,fountain,osm,n953909049,,yes,41.8922224,12.4824521
+ROM-F157,ROM,fountain,osm,n1812711628,,yes,41.8920354,12.4690449
+ROM-F158,ROM,fountain,osm,n10082714502,,yes,41.8919755,12.4818028
+ROM-F159,ROM,fountain,osm,n5535092255,,yes,41.8917992,12.491523
+ROM-F160,ROM,fountain,osm,n521790367,,yes,41.8917972,12.4738407
+ROM-F161,ROM,fountain,osm,n252899499,,no,41.8917675,12.5022052
+ROM-F162,ROM,fountain,osm,n7085935353,,yes,41.8915996,12.4941883
+ROM-F163,ROM,fountain,osm,n281352641,,yes,41.8915913,12.5003989
+ROM-F164,ROM,fountain,osm,n3098527533,,yes,41.8915162,12.4841145
+ROM-F165,ROM,fountain,osm,n267112897,,yes,41.8914635,12.4691021
+ROM-F166,ROM,fountain,osm,n5340252322,,yes,41.8913872,12.4973968
+ROM-F167,ROM,fountain,osm,n3606092352,,yes,41.8913464,12.4793142
+ROM-F168,ROM,fountain,osm,w1428979191,,yes,41.8913414,12.4911665
+ROM-F169,ROM,fountain,osm,n495113034,,yes,41.8913309,12.4934283
+ROM-F170,ROM,fountain,osm,n5340247517,,yes,41.8912427,12.4978518
+ROM-F171,ROM,fountain,osm,n2537299968,,yes,41.8911676,12.4987211
+ROM-F172,ROM,fountain,osm,n3056141350,,yes,41.8911658,12.4821627
+ROM-F173,ROM,fountain,osm,n10994133196,,yes,41.8909862,12.4825648
+ROM-F174,ROM,fountain,osm,n953890062,,yes,41.890985,12.4883755
+ROM-F175,ROM,fountain,osm,n639673131,,yes,41.8909269,12.4670359
+ROM-F176,ROM,fountain,osm,n1656861982,,yes,41.8907173,12.4883955
+ROM-F177,ROM,fountain,osm,n12623101980,,yes,41.8906947,12.4870931
+ROM-F178,ROM,fountain,osm,n13758097442,,yes,41.8905987,12.4769054
+ROM-F179,ROM,fountain,osm,n12033095972,,yes,41.8904503,12.4892954
+ROM-F180,ROM,fountain,osm,n248676418,,yes,41.8904437,12.4692174
+ROM-F181,ROM,fountain,osm,n14041052877,,yes,41.8904357,12.4917548
+ROM-F182,ROM,fountain,osm,n469752582,,no,41.8903641,12.5029448
+ROM-F183,ROM,fountain,osm,n11885861241,,yes,41.89035,12.4896798
+ROM-F184,ROM,fountain,osm,n685457655,,yes,41.8902623,12.4867108
+ROM-F185,ROM,fountain,osm,n12033088194,,yes,41.8901826,12.4902836
+ROM-F186,ROM,fountain,osm,w1384531158,Giuseppe Gioachino Belli,yes,41.8900412,12.4745029
+ROM-F187,ROM,fountain,osm,n1170494282,,yes,41.8900377,12.4942213
+ROM-F188,ROM,fountain,osm,n1542236935,,yes,41.8899577,12.474555
+ROM-F189,ROM,fountain,osm,n249333234,,no,41.8898866,12.4624403
+ROM-F190,ROM,fountain,osm,n12622944323,,yes,41.8898644,12.4902565
+ROM-F191,ROM,fountain,osm,n12236111960,,yes,41.8898265,12.4676475
+ROM-F192,ROM,fountain,osm,n256572503,,yes,41.8897454,12.5011245
+ROM-F193,ROM,fountain,osm,n248676419,,yes,41.8897442,12.4729721
+ROM-F194,ROM,fountain,osm,n6624702496,,no,41.8896686,12.4655856
+ROM-F195,ROM,fountain,osm,n1349038366,,yes,41.8896126,12.4711186
+ROM-F196,ROM,fountain,osm,n10103770188,,no,41.8894873,12.4628152
+ROM-F197,ROM,fountain,osm,n280155143,,yes,41.889461,12.5009036
+ROM-F198,ROM,fountain,osm,n7780730299,,yes,41.8894443,12.4918731
+ROM-F199,ROM,fountain,osm,n249333267,,yes,41.8894053,12.4663994
+ROM-F200,ROM,fountain,osm,n248676420,,yes,41.8893142,12.4738864
+ROM-F201,ROM,fountain,osm,n685461877,,yes,41.8891234,12.4875779
+ROM-F202,ROM,fountain,osm,n1565325823,,yes,41.889069,12.4718037
+ROM-F203,ROM,fountain,osm,n12816938731,,yes,41.8890613,12.4769211
+ROM-F204,ROM,fountain,osm,n1701226235,,no,41.8890191,12.5019658
+ROM-F205,ROM,fountain,osm,n953909059,,yes,41.8889852,12.4968765
+ROM-F206,ROM,fountain,osm,n953890053,,yes,41.8887986,12.4879526
+ROM-F207,ROM,fountain,osm,n1119375650,,yes,41.8887164,12.4685461
+ROM-F208,ROM,fountain,osm,n8626139091,Fontana della Botte,yes,41.8886452,12.4710262
+ROM-F209,ROM,fountain,osm,n248678317,,yes,41.8886393,12.4739986
+ROM-F210,ROM,fountain,osm,n251792639,,yes,41.8885804,12.4836676
+ROM-F211,ROM,fountain,osm,n5426719922,,yes,41.888539,12.4781407
+ROM-F212,ROM,fountain,osm,n264897052,,yes,41.8883122,12.4809626
+ROM-F213,ROM,fountain,osm,n7203154248,,yes,41.8882028,12.4955486
+ROM-F214,ROM,fountain,osm,n5801329944,,yes,41.8880861,12.4884569
+ROM-F215,ROM,fountain,osm,n5426719923,,yes,41.8879054,12.4765943
+ROM-F216,ROM,fountain,osm,n248674902,,yes,41.8878569,12.4716508
+ROM-F217,ROM,fountain,osm,n307961720,,yes,41.8878479,12.4766733
+ROM-F218,ROM,fountain,osm,n388984003,,yes,41.8877413,12.494519
+ROM-F219,ROM,fountain,osm,n9108120217,,yes,41.8877336,12.4847106
+ROM-F220,ROM,fountain,osm,n2724305949,,no,41.8877205,12.5020523
+ROM-F221,ROM,fountain,osm,n257348840,,yes,41.8877058,12.4700857
+ROM-F222,ROM,fountain,osm,n257348839,,yes,41.8876199,12.4693467
+ROM-F223,ROM,fountain,osm,n11167460918,,yes,41.8875142,12.4730844
+ROM-F224,ROM,fountain,osm,n1530077751,,yes,41.8873555,12.4717959
+ROM-F225,ROM,fountain,osm,n1468051863,,no,41.8873502,12.4658468
+ROM-F226,ROM,fountain,osm,n3785014818,,yes,41.8873381,12.4934389
+ROM-F227,ROM,fountain,osm,w981484750,Fontana di Lungotevere Aventino,yes,41.8872163,12.4803655
+ROM-F228,ROM,fountain,osm,n251773349,,yes,41.8870009,12.4827727
+ROM-F229,ROM,fountain,osm,n388983995,,yes,41.8869371,12.4949446
+ROM-F230,ROM,fountain,osm,n3780804950,,yes,41.8869249,12.4766411
+ROM-F231,ROM,fountain,osm,n4928628771,Fontana dell'obelisco Lateranense,no,41.8868664,12.5047886
+ROM-F232,ROM,fountain,osm,n11773723130,,yes,41.886821,12.4910146
+ROM-F233,ROM,fountain,osm,n1157932638,,yes,41.8867552,12.4954695
+ROM-F234,ROM,fountain,osm,n2001966313,,yes,41.8867201,12.4694468
+ROM-F235,ROM,fountain,osm,n3786621294,,yes,41.8867114,12.4927208
+ROM-F236,ROM,fountain,osm,n265837380,,no,41.8865531,12.5038415
+ROM-F237,ROM,fountain,osm,n5314059440,,yes,41.8863528,12.490124
+ROM-F238,ROM,fountain,osm,n1528871492,,yes,41.8858499,12.4697335
+ROM-F239,ROM,fountain,osm,n1536713988,,no,41.8857648,12.4663192
+ROM-F240,ROM,fountain,osm,n7864669614,Fontana del Dolmen,yes,41.885604,12.4944843
+ROM-F241,ROM,fountain,osm,n270198478,,yes,41.8855249,12.494358
+ROM-F242,ROM,fountain,osm,n270198480,,yes,41.8854777,12.4932314
+ROM-F243,ROM,fountain,osm,n251773348,,yes,41.885391,12.485289
+ROM-F244,ROM,fountain,osm,n4474577790,,yes,41.8851516,12.4724923
+ROM-F245,ROM,fountain,osm,n266773744,,yes,41.8850606,12.4803272
+ROM-F246,ROM,fountain,osm,n5747437099,,yes,41.8849679,12.478712
+ROM-F247,ROM,fountain,osm,n5167177172,,no,41.884693,12.4636329
+ROM-F248,ROM,fountain,osm,n413495062,,no,41.8846824,12.4686045
+ROM-F249,ROM,fountain,osm,n11248217591,,yes,41.8846303,12.4835238
+ROM-F250,ROM,fountain,osm,n11248332587,,yes,41.8845222,12.4829659
+ROM-F251,ROM,fountain,osm,n497353710,,yes,41.8844827,12.4801727
+ROM-F252,ROM,fountain,osm,n11248332588,,yes,41.8844345,12.4828817
+ROM-F253,ROM,fountain,osm,n1147711810,,yes,41.883971,12.4748427
+ROM-F254,ROM,fountain,osm,n270198479,,yes,41.8837598,12.4947844
+ROM-F255,ROM,fountain,osm,n248678318,,no,41.8836729,12.4736442
+ROM-F256,ROM,fountain,osm,n11248454775,,yes,41.8836654,12.4790926
+ROM-F257,ROM,fountain,osm,n12826341114,,yes,41.8836379,12.4790521
+ROM-F258,ROM,fountain,osm,n266965232,,yes,41.8833501,12.4875256
+ROM-F259,ROM,fountain,osm,n1536760433,,no,41.8833141,12.4690666
+ROM-F260,ROM,fountain,osm,n685465032,,yes,41.8829819,12.4915911
+ROM-F261,ROM,fountain,osm,n551785500,,no,41.8829156,12.4997696
+ROM-F262,ROM,fountain,osm,n266773743,,yes,41.8824798,12.4840162
+ROM-F263,ROM,fountain,osm,w1428972754,,no,41.8818033,12.4995208
+ROM-F264,ROM,fountain,osm,n1567119678,,yes,41.8816432,12.4767978
+ROM-F265,ROM,fountain,osm,n1703615337,,yes,41.8815304,12.480744
+ROM-F266,ROM,fountain,osm,n266962641,,yes,41.8814483,12.4867147
+ROM-F267,ROM,fountain,osm,n280114851,,no,41.8814024,12.4679109
+ROM-F268,ROM,fountain,osm,n4412504389,,no,41.8813209,12.4709562
+ROM-F269,ROM,fountain,osm,n1228398937,,no,41.8812779,12.4991601
+ROM-F270,ROM,fountain,osm,n252420331,,no,41.8808812,12.4744014
+ROM-F271,ROM,fountain,osm,n1228398969,,no,41.880763,12.4995028
+ROM-F272,ROM,fountain,osm,n1567119679,,no,41.8802521,12.4762292
+ROM-F273,ROM,fountain,osm,n4510930677,,no,41.8802431,12.4720592
+ROM-F274,ROM,fountain,osm,n251783883,,no,41.8801357,12.4753136
+ROM-F275,ROM,fountain,osm,w938115752,Fontana delle Anfore,no,41.8795483,12.47706
+ROM-F276,ROM,fountain,osm,n2420554497,,no,41.8794579,12.4969689
+ROM-F277,ROM,fountain,osm,n10763886211,,no,41.8793666,12.4757593
+ROM-F278,ROM,fountain,osm,n685465031,,no,41.8793236,12.4912644
+ROM-F279,ROM,fountain,osm,n249331968,,no,41.879092,12.4786064
+ROM-F280,ROM,fountain,osm,n250889346,,no,41.8782925,12.4765524
+ROM-F281,ROM,fountain,osm,n266962468,,no,41.8782724,12.4864779
+ROM-F282,ROM,fountain,osm,n266962469,,no,41.8778028,12.4854788
+ROM-F283,ROM,fountain,osm,n9808393613,,no,41.8777883,12.4882544
+ROM-F284,ROM,fountain,osm,n259865501,,no,41.8777468,12.479667
+ROM-F285,ROM,fountain,osm,n7021581874,,no,41.8775074,12.4749127

@@ -1,0 +1,75 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
+  "name": "617f6e690ece24a2c448",
+  "position": {
+    "x": 1435,
+    "y": 560,
+    "z": 0,
+    "height": 440,
+    "width": 445,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "How to read it",
+                    "textStyle": {
+                      "fontSize": "12pt",
+                      "color": "#163c6e",
+                      "fontFamily": "Segoe UI Semibold",
+                      "fontWeight": "bold"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Each map is one city centre: everything within 1.5 km of the city hall, inside the city’s own districts. Districts are clipped to it.",
+                    "textStyle": {
+                      "fontSize": "10pt",
+                      "color": "#5b6573",
+                      "fontFamily": "Segoe UI"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "A walk is measured along OpenStreetMap’s streets and paths from each fountain; only street centrelines are counted.",
+                    "textStyle": {
+                      "fontSize": "10pt",
+                      "color": "#5b6573",
+                      "fontFamily": "Segoe UI"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Colour: palest at 50% of streets in reach or under, mid blue at 85%, darkest at 100%. Hover a district for its name and fountains.",
+                    "textStyle": {
+                      "fontSize": "10pt",
+                      "color": "#5b6573",
+                      "fontFamily": "Segoe UI"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}
