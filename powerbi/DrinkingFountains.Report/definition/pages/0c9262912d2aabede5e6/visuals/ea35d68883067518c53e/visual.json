@@ -32,7 +32,7 @@
               {
                 "textRuns": [
                   {
-                    "value": "The districts of the city picked, fewest streets in reach first.",
+                    "value": "The districts of the city picked, fewest streets in reach first: the share of street length within a 5-minute walk, and the counts behind it.",
                     "textStyle": {
                       "fontSize": "11pt",
                       "color": "#5b6573",

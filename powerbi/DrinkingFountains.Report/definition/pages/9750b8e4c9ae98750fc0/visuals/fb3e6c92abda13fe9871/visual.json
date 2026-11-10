@@ -330,11 +330,5 @@
         }
       ]
     }
-  },
-  "annotations": [
-    {
-      "name": "plotlay.legend",
-      "value": "[[\"#eff3ff\", \"50 or under\"], [\"#6baed6\", \"85\"], [\"#08519c\", \"100 or more\"]]"
-    }
-  ]
+  }
 }

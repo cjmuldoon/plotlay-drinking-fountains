@@ -94,6 +94,14 @@ table Districts
 
 		annotation SummarizationSetBy = Automatic
 
+	column name_short
+		dataType: string
+		lineageTag: a248a680-01d6-f01e-6091-81e70a086c05
+		summarizeBy: none
+		sourceColumn: name_short
+
+		annotation SummarizationSetBy = Automatic
+
 	partition Districts = m
 		mode: import
 		source =
@@ -101,8 +109,10 @@ table Districts
 				    Source = Csv.Document(GetFile("tables/districts.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
 				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
 				    Kept = Table.SelectColumns(Promoted, {"district", "city", "name", "area_km2", "fountains", "street_km", "reached_km", "streets_5min_pct", "residents", "residents_5min_pct"}),
-				    Typed = Table.TransformColumnTypes(Kept, {{"district", type text}, {"city", type text}, {"name", type text}, {"area_km2", type number}, {"fountains", Int64.Type}, {"street_km", type number}, {"reached_km", type number}, {"streets_5min_pct", type number}, {"residents", Int64.Type}, {"residents_5min_pct", type number}}, "en-US")
+				    Typed = Table.TransformColumnTypes(Kept, {{"district", type text}, {"city", type text}, {"name", type text}, {"area_km2", type number}, {"fountains", Int64.Type}, {"street_km", type number}, {"reached_km", type number}, {"streets_5min_pct", type number}, {"residents", Int64.Type}, {"residents_5min_pct", type number}}, "en-US"),
+				    ShortNames_name_short = [#"Downtown Brooklyn-DUMBO-Boerum Hill" = "Downtown Brooklyn-DUMBO…", #"The Battery-Governors Island-Ellis Island-Liberty Island" = "The Battery-Governors Island-Ellis…"],
+				    Short_name_short = Table.AddColumn(Typed, "name_short", each Record.FieldOrDefault(ShortNames_name_short, [name], [name]), type text)
 				in
-				    Typed
+				    Short_name_short
 
 	annotation PBI_ResultType = Table

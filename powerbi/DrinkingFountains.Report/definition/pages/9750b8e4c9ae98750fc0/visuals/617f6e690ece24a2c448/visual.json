@@ -56,10 +56,70 @@
               {
                 "textRuns": [
                   {
-                    "value": "Colour: palest at 50% of streets in reach or under, mid blue at 85%, darkest at 100%. Hover a district for its name and fountains.",
+                    "value": "Hover a district for its name and fountains. Streets in reach:",
                     "textStyle": {
                       "fontSize": "10pt",
                       "color": "#5b6573",
+                      "fontFamily": "Segoe UI"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "■ ",
+                    "textStyle": {
+                      "fontSize": "14pt",
+                      "color": "#eff3ff",
+                      "fontFamily": "Segoe UI"
+                    }
+                  },
+                  {
+                    "value": "50% or under",
+                    "textStyle": {
+                      "fontSize": "11pt",
+                      "color": "#1f2a37",
+                      "fontFamily": "Segoe UI"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "■ ",
+                    "textStyle": {
+                      "fontSize": "14pt",
+                      "color": "#6baed6",
+                      "fontFamily": "Segoe UI"
+                    }
+                  },
+                  {
+                    "value": "85%",
+                    "textStyle": {
+                      "fontSize": "11pt",
+                      "color": "#1f2a37",
+                      "fontFamily": "Segoe UI"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "■ ",
+                    "textStyle": {
+                      "fontSize": "14pt",
+                      "color": "#08519c",
+                      "fontFamily": "Segoe UI"
+                    }
+                  },
+                  {
+                    "value": "100%",
+                    "textStyle": {
+                      "fontSize": "11pt",
+                      "color": "#1f2a37",
                       "fontFamily": "Segoe UI"
                     }
                   }
@@ -71,5 +131,11 @@
       ]
     },
     "drillFilterOtherVisuals": true
-  }
+  },
+  "annotations": [
+    {
+      "name": "plotlay.sharedLegend",
+      "value": "the legend of every district map on the page"
+    }
+  ]
 }
