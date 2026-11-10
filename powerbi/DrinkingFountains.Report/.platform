@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "DrinkingFountains"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "f1c766ec-0b2e-4f3b-bfb5-1cc606b51120"
+  }
+}
